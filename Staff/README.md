@@ -2,8 +2,8 @@
 ## Module Leadership
 
 | ![Andy Brand](assets/Andy.jpg) | ![Freddie Page](assets/Freddie.jpg) |
-| -------------------- | ----------------------- |
-| Andy Brand           | Freddie Page            |
+| ------------------------------ | ----------------------------------- |
+| Andy Brand                     | Freddie Page                        |
 
 Andy and Freddie are the module leaders. We set the strategy for the module, how it is run and assessed. Coordinate between all students and supervisors and run the operations of the module.
 ## Supervisors
