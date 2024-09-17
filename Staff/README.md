@@ -1,7 +1,7 @@
 # Module Team
 ## Module Leadership
 
-| ![[assets/Andy.jpg]] | ![[assets/Freddie.jpg]] |
+| ![Andy Brand](assets/Andy.jpg) | ![Freddie Page](assets/Freddie.jpg) |
 | -------------------- | ----------------------- |
 | Andy Brand           | Freddie Page            |
 
