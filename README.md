@@ -1,5 +1,4 @@
 # Design Engineering Master's Project – DESE70002 – Module Handbook – 2024/25 (DRAFT)
-# Computing 2: Applications – Module Handbook – 2022/23
 ```json
 {
     "Version": "0.0.0",
