@@ -1,6 +1,6 @@
 # Module descriptor and assessment brief
 ## Assessment Criteria
-<table style="align: left;">
+<table style="text-align: left;">
 	<thead>
 		<tr>
 			<th scope="col">Outcome</th>
