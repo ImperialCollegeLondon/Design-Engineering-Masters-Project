@@ -127,6 +127,7 @@ You will be assessed on your **Project Outcome** and how it meets the assessment
 * **Project Outcome** – This is the output of the project itself, whether a prototype, a product, experimental data, a research study, etc. There is no need to submit this item through a deliverable, but there will be the opportunity for you to show it and, if applicable, demonstrate its functionalities during the DEMO Day and/or VIVA.
 * **Project Report** – A 7000 word (a 10% variation will be considered acceptable) report, to be submitted via Blackboard. Examples of reports from past projects are linked in the Introduction to the Master's Project document, available from Blackboard.
 * **Viva** – 15-minute presentation plus 30-minute Q&A, with the 1st and 2nd independent assessors.
+
 The assessment is independent of your supervisor, though they will write a contextualising statement, and is conducted by your two independent assessors. See [details of how these are selected](../Allocation/README.md).
 ## Early and Late Stage Gateways
 There are two formative assessment milestones in this module, the **Early Stage Gateway** (ESG) and **Late Stage Gateway** (LSG). They are conducted at the end of the first and second term respectively and are a check that you are on the right track to meet the assessment criteria of the module for your final submission. The gateways are conducted by your First Independent Assessor, you will receive feedback on the stage of your project and you must pass them in order to continue.
