@@ -19,5 +19,6 @@ We look forward to seeing your Master’s Projects come to life!
 }
 ```
 * 1.0.0: Initial Release for 2024/25
+
 ## Acknowledgements
 To Prof. Lorenzo Picinali for writing the previous version of the handbook that this document is based on.
