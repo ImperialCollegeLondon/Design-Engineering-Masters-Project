@@ -1,7 +1,7 @@
 # You Said, We Did – Changes from last year
 In response to student feedback and to improve the module, the following changes have been made from last year.
 ## 2024/25
-* New streamlined [module handbook](../).
+* New streamlined [Module Handbook](../).
 * Assessment Criteria descriptors have been redefined to be easier to observe meeting.
 * Supervisors now will provide context to independent assessors as to how the project fits with each of the assessment criteria.
 * Supervisors no longer mark projects.

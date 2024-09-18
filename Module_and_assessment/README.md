@@ -122,3 +122,10 @@ For each assessment criterion, you'll be graded to what level you met the specif
 
 Then for the overall assessment, you will receive a grade that is commensurate with the grades for the individual assessment criteria, weighted by the independent assessors as appropriate for the specific nature of the project. The overall grade will be given with + and - modifiers to indicate whether you are in the low (0,1,2) or high (7,8,9) range, but the individual criteria are only specified to letter level.
 ## Independent Assessment
+You will be assessed on your **Project Outcome** and how it meets the assessment criteria based on a **45 m Viva** for which you will have submitted a 7000 word (±10%) **Project Report**. See [Timetable](../Timetable/README.md) for deadline information.
+
+* **Project Outcome** – This is the output of the project itself, whether a prototype, a product, experimental data, a research study, etc. There is no need to submit this item through a deliverable, but there will be the opportunity for you to show it and, if applicable, demonstrate its functionalities during the DEMO Day and/or VIVA.
+* **Project Report** – A 7000 word (a 10% variation will be considered acceptable) report, to be submitted via Blackboard. Examples of reports from past projects are linked in the Introduction to the Master's Project document, available from Blackboard.
+* **Viva** – 15-minute presentation plus 30-minute Q&A, with the 1st and 2nd independent assessors.
+The assessment is independent of your supervisor, though they will write a contextualising statement, and is conducted by your two independent assessors. See [details of how these are selected](../Allocation/README.md).
+## Early and Late Stage Gateways
