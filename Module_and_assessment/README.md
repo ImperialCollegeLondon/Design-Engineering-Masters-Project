@@ -95,5 +95,6 @@ For each assessment criterion, you'll be graded to what level you met the descri
 | **B**  | As with **C**, but also **partially** met the excellent descriptors.                |
 | **A**  | As with **C**, but also **fully** met the excellent descriptors.                    |
 | **A*** | As with **A**, and exceptionally went above and beyond the excellent specification. |
+
 Then for the overall assessment, you will receive a grade that is commensurate with the grades for the individual assessment criteria, weighted by the independent assessors as appropriate for the specific nature of the project.
 ## Independent Assessment
