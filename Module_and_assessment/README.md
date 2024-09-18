@@ -12,7 +12,7 @@ Aligned to the learning outcomes of the module and the programme, and to the ass
 <table style="text-align: left;">
 	<thead>
 		<tr>
-			<th scope="col">Outcome</th>
+			<th scope="col">Learning Outcome</th>
 			<th scope="col">Passing (C Grade)</th>
 			<th scope="col">Excellent (A Grade)</th>
 		</tr>
@@ -20,7 +20,7 @@ Aligned to the learning outcomes of the module and the programme, and to the ass
 	<tbody>
 		<tr>
 			<th scope="row">Contextual Investigation
-				<div style="font-weight: normal; font-size: smaller;">
+				<div style="font-weight: normal; font-size: 70%;">
 					Analyse and define original insights from research into complex scenarios for design engineering.
 				</div>
 			</th>
@@ -36,7 +36,7 @@ Aligned to the learning outcomes of the module and the programme, and to the ass
 		</tr>
 		<tr>
 			<th scope="row">Project Management
-				<div style="font-weight: normal; font-size: smaller;">
+				<div style="font-weight: normal; font-size: 70%;">
 					Manage a significant design engineering project which includes high levels of complexity and uncertainty.
 				</div>
 			</th>
@@ -50,7 +50,7 @@ Aligned to the learning outcomes of the module and the programme, and to the ass
 		</tr>
 		<tr>
 			<th scope="row">Design Engineering Process
-				<div style="font-weight: normal; font-size: smaller;">
+				<div style="font-weight: normal; font-size: 70%;">
 					Create an original resolved response to complex challenges by applying a comprehensive set of design engineering tools and methods.
 				</div>
 			</th>
@@ -63,7 +63,7 @@ Aligned to the learning outcomes of the module and the programme, and to the ass
 		</tr>
 		<tr>
 			<th scope="row">Validation
-				<div style="font-weight: normal; font-size: smaller;">
+				<div style="font-weight: normal; font-size: 70%;">
 					Evaluate systems that are complex or ambiguous with appropriate design engineering methods and approaches, assessing their potential social, environmental, technological and economic impact.
 				</div>
 			</th>
@@ -77,7 +77,7 @@ Aligned to the learning outcomes of the module and the programme, and to the ass
 		</tr>
 		<tr>
 			<th scope="row">Reflection
-				<div style="font-weight: normal; font-size: smaller;">
+				<div style="font-weight: normal; font-size: 70%;">
 					Reflect critically on their own project work in the context of well selected benchmarks and a growth mindset.
 				</div>
 			</th>
@@ -91,7 +91,7 @@ Aligned to the learning outcomes of the module and the programme, and to the ass
 		</tr>
 		<tr>
 			<th scope="row">Communication
-				<div style="font-weight: normal; font-size: smaller;">
+				<div style="font-weight: normal; font-size: 70%;">
 					Synthesise design engineering project outcomes in a range of effective communications materials.
 				</div>
 			</th>
@@ -111,14 +111,14 @@ Aligned to the learning outcomes of the module and the programme, and to the ass
 
 For each assessment criterion, you'll be graded to what level you met the descriptors,
 
-| Grade  | Indicative Level                                                                    |
-| ------ | ----------------------------------------------------------------------------------- |
-| **F**  | Did not meet the passing descriptors.                                               |
-| **D**  | Marginally did not meet the passing descriptors.                                    |
-| **C**  | Met the passing descriptors for the criterion.                                      |
-| **B**  | As with **C**, but also **mostly** met the excellent descriptors.                   |
-| **A**  | As with **C**, but also **fully** met the excellent descriptors.                    |
-| **A*** | As with **A**, and exceptionally went above and beyond the excellent specification. |
+| Grade   | Indicative Level                                                                    |
+| ------- | ----------------------------------------------------------------------------------- |
+| **F**   | Did not meet the passing descriptors.                                               |
+| **D**   | Marginally did not meet the passing descriptors.                                    |
+| **C**   | Met the passing descriptors for the criterion.                                      |
+| **B**   | As with **C**, but also **mostly** met the excellent descriptors.                   |
+| **A**   | As with **C**, but also **fully** met the excellent descriptors.                    |
+| **A\*** | As with **A**, and exceptionally went above and beyond the excellent specification. |
 
 Then for the overall assessment, you will receive a grade that is commensurate with the grades for the individual assessment criteria, weighted by the independent assessors as appropriate for the specific nature of the project. The overall grade will be given with + and - modifiers to indicate whether you are in the low (0,1,2) or high (7,8,9) range, but the individual criteria are only specified to letter level.
 ## Independent Assessment
