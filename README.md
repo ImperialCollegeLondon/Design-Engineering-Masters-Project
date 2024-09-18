@@ -6,6 +6,8 @@ We look forward to seeing your Master’s Projects come to life!
 1. [Teaching Staff](Staff/README.md)
 1. [You Said, We Did – Changes from last year](Changes/README.md)
 1. [Module Descriptor and Assignment Brief](Module_and_assessment/README.md)
+1. [Projects, Supervisor, and Assessor Allocation](Allocation/README.md)
+1. [Timetable](Timetable/README.md)
 
 ## Change log ##
 * 1.0.0: Initial Release for 2024/25
