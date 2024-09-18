@@ -1,5 +1,14 @@
 # Module descriptor and assessment brief
+The Design Engineering Master's Project is the capstone final year individual project of the degree. It is a major project coursework that will take place over nine months, October to June.
+
+The assessment brief is for you to lead a self-contained project that sits within a wider Design Engineering context, developing a brief and producing a response to your chosen problem using a chosen set of design engineering methodologies and with a focus on bench-marking and validating your response, and positioning it within its wider context.
+
+The summative assessment for the module will take the form of a viva for which you will have prepared a written report, using both modes to communicate to your examiners how your project has met the assessment criteria detailed below.
+
+There is also formative assessment throughout the year in the form of early and late stage gateways.
 ## Assessment Criteria
+Aligned to the learning outcomes of the module and the programme, and to the assessment brief. Your project will be assessed on six criteria, with finer grained descriptors within. Each criterion will be graded to whether it meets the passing descriptors and then to what level the excellent descriptors are met.
+
 <table style="text-align: left;">
 	<thead>
 		<tr>
@@ -75,3 +84,16 @@
 		</tr>
 	</tbody>
 </table>
+
+For each assessment criterion, you'll be graded to what level you met the descriptors,
+
+| Grade  | Indicative Level                                                                    |
+| ------ | ----------------------------------------------------------------------------------- |
+| **F**  | Did not meet the passing descriptors.                                               |
+| **D**  | Marginally did not meet the passing descriptors.                                    |
+| **C**  | Met the passing descriptors for the criterion.                                      |
+| **B**  | As with **C**, but also **partially** met the excellent descriptors.                |
+| **A**  | As with **C**, but also **fully** met the excellent descriptors.                    |
+| **A*** | As with **A**, and exceptionally went above and beyond the excellent specification. |
+Then for the overall assessment, you will receive a grade that is commensurate with the grades for the individual assessment criteria, weighted by the independent assessors as appropriate for the specific nature of the project.
+## Independent Assessment
