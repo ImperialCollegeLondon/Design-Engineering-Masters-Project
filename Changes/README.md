@@ -5,8 +5,6 @@ In response to student feedback and to improve the module, the following changes
 ## 2024/25
 * New streamlined [Module Handbook](../).
 * Assessment Criteria descriptors have been redefined to be easier to observe meeting.
-<!-- * Supervisors now will provide context to independent assessors as to how the project fits with each of the assessment criteria.
-* Supervisors no longer mark projects. -->
 * Both Independent Assessors will be assigned at the beginning of the module.
 * Final viva will be booked at the beginning of the module.
 * Early stage and late stage gateways no longer have their own assessment criteria, instead they review that the project is on track to meet the final assessment criteria.
