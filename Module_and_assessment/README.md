@@ -22,9 +22,9 @@ Aligned to the learning outcomes of the module and the programme, and to the ass
 	<tbody>
 		<tr>
 			<th scope="row">Contextual Investigation
-				<div style="font-weight: normal;"><small>
+				<div style="font-weight: normal; font-size: smaller;">
 					Analyse and define original insights from research into complex scenarios for design engineering.
-				</small></div>
+				</div>
 			</th>
 			<td><ul>
 				<li>The project is defined with some reference to its wider context</li>
@@ -38,9 +38,9 @@ Aligned to the learning outcomes of the module and the programme, and to the ass
 		</tr>
 		<tr>
 			<th scope="row">Project Management
-				<div style="font-weight: normal;"><small>
+				<div style="font-weight: normal; font-size: smaller;">
 					Manage a significant design engineering project which includes high levels of complexity and uncertainty.
-				</small></div>
+				</div>
 			</th>
 			<td><ul>
 				<li>Evidence of a workplan which has been broadly followed throughout the project.</li>
@@ -52,9 +52,9 @@ Aligned to the learning outcomes of the module and the programme, and to the ass
 		</tr>
 		<tr>
 			<th scope="row">Design Engineering Process
-				<div style="font-weight: normal; font-size: smaller;"><small>
+				<div style="font-weight: normal; font-size: smaller;">
 					Create an original resolved response to complex challenges by applying a comprehensive set of design engineering tools and methods.
-				</small></div>
+				</div>
 			</th>
 			<td><ul>
 				<li>The approaches (processes and tools) taken in the project are described</li>
@@ -65,9 +65,9 @@ Aligned to the learning outcomes of the module and the programme, and to the ass
 		</tr>
 		<tr>
 			<th scope="row">Validation
-				<div style="font-weight: normal;"><small>
+				<div style="font-weight: normal; font-size: smaller;">
 					Evaluate systems that are complex or ambiguous with appropriate design engineering methods and approaches, assessing their potential social, environmental, technological and economic impact.
-				</small></div>
+				</div>
 			</th>
 			<td><ul>
 				<li>Some discussion about how the success of the project has been measured</li>
@@ -79,9 +79,9 @@ Aligned to the learning outcomes of the module and the programme, and to the ass
 		</tr>
 		<tr>
 			<th scope="row">Reflection
-				<div style="font-weight: normal;"><small>
+				<div style="font-weight: normal; font-size: smaller;">
 					Reflect critically on their own project work in the context of well selected benchmarks and a growth mindset.
-				</small></div>
+				</div>
 			</th>
 			<td><ul>
 				<li>Some discussion about personal skills development during the course of the project</li>
@@ -93,9 +93,9 @@ Aligned to the learning outcomes of the module and the programme, and to the ass
 		</tr>
 		<tr>
 			<th scope="row">Communication
-				<div style="font-weight: normal;"><small>
+				<div style="font-weight: normal; font-size: smaller;">
 					Synthesise design engineering project outcomes in a range of effective communications materials.
-				</small></div>
+				</div>
 			</th>
 			<td><ul>
 				<li>Report and VIVA broadly communicate what the student did in regard to meeting the other assessment criteria</li>
