@@ -1,4 +1,5 @@
 # Module descriptor and assessment brief
+
 The Design Engineering Master's Project is the capstone final year individual project of the degree. It is a major project coursework that will take place over nine months, October to June.
 
 The assessment brief is for you to lead a self-contained project that sits within a wider Design Engineering context, developing a brief and producing a response to your chosen problem using a chosen set of design engineering methodologies and with a focus on bench-marking and validating your response, and positioning it within its wider context.
@@ -6,6 +7,7 @@ The assessment brief is for you to lead a self-contained project that sits withi
 The summative assessment for the module will take the form of a viva for which you will have prepared a written report, using both modes to communicate to your examiners how your project has met the assessment criteria detailed below.
 
 There is also formative assessment throughout the year in the form of early and late stage gateways.
+
 ## Assessment Criteria
 Aligned to the learning outcomes of the module and the programme, and to the assessment brief. Your project will be assessed on six criteria, with a finer grained specification within. Each criterion will be graded to whether it meets the passing descriptors and then to what level the excellent descriptors are met.
 
@@ -121,6 +123,7 @@ For each assessment criterion, you'll be graded to what level you met the specif
 | **A\*** | As with **A**, and exceptionally went above and beyond the excellent specification. |
 
 Then for the overall assessment, you will receive a grade that is commensurate with the grades for the individual assessment criteria, weighted by the independent assessors as appropriate for the specific nature of the project. The overall grade will be given with + and - modifiers to indicate whether you are in the low (0,1,2) or high (7,8,9) range, but the individual criteria are only specified to letter level.
+
 ## Independent Assessment
 You will be assessed on your **Project Outcome** and how it meets the assessment criteria based on a **45 m Viva** for which you will have submitted a 7000 word (±10%) **Project Report**. See [Timetable](../Timetable/README.md) for deadline information.
 
@@ -129,8 +132,10 @@ You will be assessed on your **Project Outcome** and how it meets the assessment
 * **Viva** – 15-minute presentation plus 30-minute Q&A, with the 1st and 2nd independent assessors.
 
 The assessment is independent of your supervisor, though they will write a contextualising statement, and is conducted by your two independent assessors. See [details of how these are selected](../Allocation/README.md).
+
 ## Early and Late Stage Gateways
 There are two formative assessment milestones in this module, the **Early Stage Gateway** (ESG) and **Late Stage Gateway** (LSG). They are conducted at the end of the first and second term respectively and are a check that you are on the right track to meet the assessment criteria of the module for your final submission. The gateways are conducted by your First Independent Assessor, you will receive feedback on the stage of your project and you must pass them in order to continue.
+
 ### Early Stage Gateway
 The ESG is at the end of Autumn Term. You will produce a brief report on the context and relevant literature review, with a clear statement of the aims and objectives, as well as a well-structured plan for the work to be done up to the project deadline (e.g. a Gantt chart). Max 2000 words. This will be sent to the 1st Assessor, who will arrange a meeting directly with the student. During the meeting, the student will be allowed to present the project, the work done so far and the plan ahead, and discuss with the assessor about the current progression. The assessor will then report back to the Supervisor in case specific issues/risks are identified.
 
