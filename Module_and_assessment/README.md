@@ -9,17 +9,17 @@ The summative assessment for the module will take the form of a viva for which y
 There is also formative assessment throughout the year in the form of early and late stage gateways.
 
 ## Assessment Criteria
-Aligned to the learning outcomes of the module and the programme, and to the assessment brief. Your project will be assessed on six criteria, with a finer grained specification within. Each criterion will be graded to whether it meets the passing descriptors and then to what level the excellent descriptors are met.
+Aligned to the learning outcomes of the module and the programme, and to the assessment brief. Your project will be assessed on the six module learning outcomes, with finer grained assessment criteria within. Each criterion will be graded to whether it meets the passing descriptors and then to what level the excellent descriptors are met.
 
 <table style="text-align: left;">
 	<thead>
 		<tr>
-			<th scope="col">Outcome</th>
-			<th scope="col">Passing (C Grade)</th>
-			<th scope="col">Excellent (A Grade)</th>
+			<th scope="col">Learning Outcome</th>
+			<th scope="col">Passing Criteria (C Grade)</th>
+			<th scope="col">Excellent Criteria (A Grade)</th>
 		</tr>
 	</thead>
-	<tbody>
+	<tbody style="vertical-align: top;">
 		<tr>
 			<th scope="row">Contextual Investigation
 				<div style="font-weight: normal; font-size: smaller;">
@@ -111,18 +111,18 @@ Aligned to the learning outcomes of the module and the programme, and to the ass
 	</tbody>
 </table>
 
-For each assessment criterion, you'll be graded to what level you met the specifications,
+For each learning outcome, you'll be graded to what level you met the specifications,
 
 | Grade   | Indicative Level                                                                    |
 | ------- | ----------------------------------------------------------------------------------- |
-| **F**   | Did not meet the passing specification.                                             |
-| **D**   | Marginally did not meet the passing specification.                                  |
-| **C**   | Met the passing specification for the criterion.                                    |
-| **B**   | As with **C**, but also **mostly** met the excellent specification.                 |
-| **A**   | As with **C**, but also **fully** met the excellent specification.                  |
-| **A\*** | As with **A**, and exceptionally went above and beyond the excellent specification. |
+| **F**   | Did not meet the passing criteria.                                             |
+| **D**   | Marginally did not meet the passing criteria.                                  |
+| **C**   | Met the passing specification for the criteria.                                    |
+| **B**   | As with **C**, but also **mostly** met the excellent criteria.                 |
+| **A**   | As with **C**, but also **fully** met the excellent criteria.                  |
+| **A\*** | As with **A**, and exceptionally went above and beyond the excellent criteria. |
 
-Then for the overall assessment, you will receive a grade that is commensurate with the grades for the individual assessment criteria, weighted by the independent assessors as appropriate for the specific nature of the project. The overall grade will be given with + and - modifiers to indicate whether you are in the low (0,1,2) or high (7,8,9) range, but the individual criteria are only specified to letter level.
+Then for the overall assessment, you will receive a grade that is commensurate with the grades for the individual learning outcomes, weighted by the independent assessors as appropriate for the specific nature of the project. The overall grade will be given with + and - modifiers to indicate whether you are in the low (0,1,2) or high (7,8,9) range, but the individual criteria are only specified to letter level.
 
 ## Independent Assessment
 You will be assessed on your **Project Outcome** and how it meets the assessment criteria based on a **45 m Viva** for which you will have submitted a 7000 word (±10%) **Project Report**. See [Timetable](../Timetable/README.md) for deadline information.
