@@ -15,8 +15,8 @@ We look forward to seeing your Master’s Projects come to life!
 ## Change log ##
 ```json
 {
-    "Version": "0.0.0",
-    "Updated": "2024-09-17"
+    "Version": "1.0.0",
+    "Updated": "2024-10-07"
 }
 ```
 * 1.0.0: Initial Release for 2024/25

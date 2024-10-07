@@ -2,7 +2,7 @@
 
 ## Module Leadership
 
-| ![Andy Brand](assets/Andy.jpg) | ![Freddie Page](assets/Freddie.jpg) |
+| ![Andy Brand](assets/Andy.png) | ![Freddie Page](assets/Freddie.jpg) |
 | ------------------------------ | ----------------------------------- |
 | Andy Brand                     | Freddie Page                        |
 
@@ -13,11 +13,3 @@ Every member of the Design Engineering Teaching and Research staff is a potentia
 
 ## Independent Assessors
 Each project will have two independent assessors, the first independent assessor is selected taking into account nominations from your supervisor, and the second independent assessor is selected from the distribution of Design Engineering academic staff.
-
-## Guest Lectures
-### Centre for Academic English
-
-### Library
-
-### Ethics
-
