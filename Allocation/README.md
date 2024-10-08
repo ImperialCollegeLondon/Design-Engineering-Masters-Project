@@ -6,8 +6,8 @@ Within the first weeks of the Autumn Term, you will be able to choose between an
 ### The allocation portal and academic-generated projects
 You can find the academic proposed projects on Blackboard, or after agreeing with a supervisor you can provide your own. When you are ready, use the link below to submit your ranking. This can be edited and returned to.
 
-[Blackboard link to Tutor Briefs (Make sure you're logged on)](https://bb.imperial.ac.uk/bbcswebdav/pid-3297113-dt-content-rid-19803747_1/xid-19803747_1)
-[Submit Project Ranking](https://forms.office.com/e/YtkXB7Lht6)
+* [Blackboard link to Tutor Briefs (Make sure you're logged on)](https://bb.imperial.ac.uk/bbcswebdav/pid-3297113-dt-content-rid-19803747_1/xid-19803747_1)
+* [Submit Project Ranking](https://forms.office.com/e/YtkXB7Lht6)
 
 ### Student-generated projects
 If you want to propose your own project, you can start by looking at the list of potential supervisors (which can be found in the [Design Engineering Staff page](https://www.imperial.ac.uk/design-engineering/people/academic--teaching-staff/)) trying to identify a tutor whose expertise is relevant to your project. After having formalised a draft idea, you can contact them asking to discuss the project proposal and, if interested, agree on the scope and aims of the project. Once this has happened, the Supervisor will input your proposed project in the allocation portal allocating it directly to your username, so that you will see that proposal in the list of shortlisted one, and you will be able to include it in your ranking. **Even if you have proposed a project which has been accepted by a potential Supervisor you will be asked to shortlist and rank other suitable projects.**
