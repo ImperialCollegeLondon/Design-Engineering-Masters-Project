@@ -54,7 +54,7 @@ The embodiment for this type of projects usually requires some type of software 
 **Focus**. This type of projects focuses on how the analytical model fits the problem/opportunity, as well as the best practices to solve/exploit it. 
 a thorough understanding of the socio-technical context for the system is required, together with evidence of nuanced approaches to evaluating the proposed model, even if a prototype implementation is not possible. A carefully constructed argument is therefore essential, identifying the determinants and how the intervention would have the effect sought.
 
-\textbf{Sample project 6}. This project investigates ways to reduce suicide deaths in train stations. Since he could not implement the changes in real life, a VR model was developed and evaluated: \href{https://imperialcollegelondon.box.com/s/p94uapv1tmt9xowfmunleurggogr5p1m}{Behind the gap: Reducing railway deaths (Paolo Ruegg, 2019)}
+**Sample project 6**. This project investigates ways to reduce suicide deaths in train stations. Since he could not implement the changes in real life, a VR model was developed and evaluated: [Behind the gap: Reducing railway deaths (Paolo Ruegg, 2019)](https://imperialcollegelondon.box.com/s/p94uapv1tmt9xowfmunleurggogr5p1m)
 
 
 ### Project category 4: Human systems
