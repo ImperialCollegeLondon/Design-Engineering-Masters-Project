@@ -1,4 +1,4 @@
-# Design Engineering Master's Project – Module Handbook – 2024/25 – DESE70002 (DRAFT)
+# Design Engineering Master's Project – Module Handbook – 2024/25 – DESE70002
 
 <div style="display:none;"><strong><a href="https://imperialcollegelondon.github.io/Design-Engineering-Masters-Project/">This module handbook is best viewed on GitHub Pages – Click to go there.</a></strong><br></div>
 
