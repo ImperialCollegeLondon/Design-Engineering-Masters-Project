@@ -11,15 +11,17 @@ We look forward to seeing your Master’s Projects come to life!
 1. [Module Descriptor and Assignment Brief](Module_and_assessment/README.md)
 1. [Projects, Supervisor, and Assessor Allocation](Allocation/README.md)
 1. [Timetable](Timetable/README.md)
+1. [Q&A](QandA/README.md)
 
 ## Change log ##
 ```json
 {
-    "Version": "1.0.0",
-    "Updated": "2024-10-07"
+    "Version": "1.0.1",
+    "Updated": "2024-10-1-0"
 }
 ```
-* 1.0.0: Initial Release for 2024/25
+* 1.0.1: New [Q&A](QandA/README.md) section.
+* 1.0.0: Initial Release for 2024/25.
 
 ## Acknowledgements
 To Prof. Lorenzo Picinali for writing the previous version of the handbook that this document is based on.
