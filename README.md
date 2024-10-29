@@ -17,7 +17,7 @@ We look forward to seeing your Master’s Projects come to life!
 ```json
 {
     "Version": "1.0.1",
-    "Updated": "2024-10-1-0"
+    "Updated": "2024-10-01"
 }
 ```
 * 1.0.1: New [Q&A](QandA/README.md) section.
