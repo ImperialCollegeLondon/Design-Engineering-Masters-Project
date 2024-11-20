@@ -17,10 +17,11 @@ We look forward to seeing your Master’s Projects come to life!
 ## Change log ##
 ```json
 {
-    "Version": "1.0.1",
-    "Updated": "2024-10-01"
+    "Version": "1.0.2",
+    "Updated": "2024-11-20"
 }
 ```
+* 1.0.2: New [Procedures, regulations, and other relevant matters](Procedures/README.md) section.
 * 1.0.1: New [Q&A](QandA/README.md) section.
 * 1.0.0: Initial Release for 2024/25.
 
