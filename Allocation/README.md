@@ -67,11 +67,3 @@ Note that while the Category 1 projects (Design, Build & Test) might also includ
 **Sample project 7.** [A holistic, student-centric approach to implementing entrepreneurship in universities: from the offering to the physical and digital infrastructure (Angela Ibanez Jimenez, 2021)](https://imperialcollegelondon.box.com/s/0loy353eppvp6erfexz3xw1zeikrgbka)
 
 **Sample project 8.** [Investigating How Signs of Use Affect Users’ Perceptions of Reusable Takeaway Packaging (Ben Collis, 2021)](https://imperialcollegelondon.box.com/s/npq7xvvbws0zi0kw7cu2k2pz3omnui74)
-
-## Procedures, regulations and other relevant matters
-Here you'll be able to find relevant information about procedures, regulations and other matters related with the Master's Project.
-
-### Supervision
-It is expected that you will regularly meet your project Supervisor during the three terms, in order to discuss the progress of your project on a weekly basis. This might take the form of individual meetings, and/or research group meetings. We recommend you agree on the terms of engagement (i.e. meeting frequency and duration, note-keeping, email communications, etc.) with your Supervisor at the beginning of the project.
-
-You can expect 30m per week or 1h per fortnight individual supervision with your supervisor for this module., but it is up to you to drive this meeting schedule.
