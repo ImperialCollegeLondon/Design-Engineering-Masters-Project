@@ -1,4 +1,4 @@
-# Procedures, regulations and other relevant matters
+# Procedures, regulations, and other relevant matters
 Here you'll be able to find relevant information about procedures, regulations and other matters related with the Master's Project.
 
 ## Supervision
