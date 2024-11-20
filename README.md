@@ -11,6 +11,7 @@ We look forward to seeing your Master’s Projects come to life!
 1. [Module Descriptor and Assignment Brief](Module_and_assessment/README.md)
 1. [Projects, Supervisor, and Assessor Allocation](Allocation/README.md)
 1. [Timetable](Timetable/README.md)
+1. [Procedures, regulations, and other relevant matters](Procedures/README.md)
 1. [Q&A](QandA/README.md)
 
 ## Change log ##
