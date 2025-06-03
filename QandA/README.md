@@ -110,3 +110,29 @@ A17.2: Scope your self-generated project concepts with potential Project Supervi
 A18: After the Student Rankings closes (Tuesday 15 October 2024, 14:00), Supervisors will be able to see which students chose their projects and rank them in order of preference. The module leads will then run an automatic program to match Supervisors with students. We have had very good success with this in previous years. 
 
 If you are in the supervisor’s top choices within their capacity and the project is your top rank, you will be matched together.
+
+## Do the abstract and acknowledgements contribute to the word count?
+
+No to both.
+The abstract is a self-contained executive summary of the approach and outcomes of the paper, it stands outside the main body and therefore can stand outside the word count.
+Students will want to acknowledge support in their paper, but will be competing for space for text that they rely on for demonstrating assessment criteria. To relieve this, acknowledgements are excluded.
+
+## Should I include […] in my report or can I leave this for the viva?
+
+All results and must be presented in the main text of the report as well as anything you are relying on to meet assessment criteria.
+The viva will allow examiners to probe further, clarify, and discuss aspects that you have reported on.
+
+Some of the assessment criteria such as project management or personal reflection may seem alien in a scientific report, but are a part of the Design Engineering Master's Project report submission.
+As above these should be included in the main text. You may wish to opt for a short self-contained section on each.
+
+## Figures, Tables, etc and their captions?
+
+Not part of the word count. Should be labelled such that they can be referred to in the main text (e.g. Fig. 1.2).
+It's bad practice to have floating items that are not referred to in the main text body.
+
+## What is the role of appendices?
+
+Appendices, or Supplementary Information, are additional resources that supports the main text body, but that you are not relying on for the main body to be a self-contained piece of scientific communication.
+You don't need to include any. And there is no guarantee an examiner will read them.
+Like figures and tables, they should be referred to in the main text to give the examiners the opportunity to view them.
+You may link out to external resources you've used such as data and code repositories, project management tools, notebooks etc.
