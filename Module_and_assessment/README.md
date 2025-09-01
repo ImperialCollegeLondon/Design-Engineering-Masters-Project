@@ -144,6 +144,8 @@ For each learning outcome, you'll be graded to what level you met the specificat
 
 Then for the overall assessment, you will receive a grade that is commensurate with the grades for the individual learning outcomes, weighted by the independent assessors as appropriate for the specific nature of the project. The overall grade will be given with + and - modifiers to indicate whether you are in the low (0,1,2) or high (7,8,9) range, but the individual criteria are only specified to letter level.
 
+**Important:** Students must meet all assessment criteria at passing level to achieve a passing mark for this assessment.
+
 ## Independent Assessment
 You will be assessed on your **Project Response** and how it meets the assessment criteria based on a **45 m Viva** for which you will have submitted a 7000 word (±10%) **Project Report**. See [Timetable](../Timetable/README.md) for deadline information.
 
