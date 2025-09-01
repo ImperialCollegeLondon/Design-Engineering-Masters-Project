@@ -144,6 +144,8 @@ For each learning outcome, you'll be graded to what level you met the specificat
 
 Then for the overall assessment, you will receive a grade that is commensurate with the grades for the individual learning outcomes, weighted by the independent assessors as appropriate for the specific nature of the project. The overall grade will be given with + and - modifiers to indicate whether you are in the low (0,1,2) or high (7,8,9) range, but the individual criteria are only specified to letter level.
 
+**Important:** Students must meet all assessment criteria at passing level to achieve a passing mark for this assessment.
+
 ## Independent Assessment
 You will be assessed on your **Project Response** and how it meets the assessment criteria based on a **45 m Viva** for which you will have submitted a 7000 word (±10%) **Project Report**. See [Timetable](../Timetable/README.md) for deadline information.
 
@@ -154,7 +156,7 @@ You will be assessed on your **Project Response** and how it meets the assessmen
 The assessment is independent of your supervisor, though they will write a contextualising statement, and is conducted by your two independent assessors. See [details of how these are selected](../Allocation/README.md).
 
 ## Early and Late Stage Gateways
-There are two formative assessment milestones in this module, the **Early Stage Gateway** (ESG) and **Late Stage Gateway** (LSG). They are conducted at the end of the first and second term respectively and are a check that you are on the right track to meet the assessment criteria of the module for your final submission. The gateways are conducted by your First Independent Assessor, you will receive feedback on the stage of your project and you must pass them in order to continue. There are three levels: Pass, Pass with some concerns, and Not passed - must resubmit.
+There are two formative assessment milestones in this module, the **Early Stage Gateway** (ESG) and **Late Stage Gateway** (LSG). They are conducted at the end of the first and second term respectively and are a check that you are on the right track to meet the assessment criteria of the module for your final submission. The gateways are conducted by your First Independent Assessor, you will receive feedback on the stage of your project and you must pass them in order to continue. There are three levels: Pass, Pass with some concerns, and Not passed – require re-assessment.
 
 ### Early Stage Gateway
 The ESG is at the end of Autumn Term. You will produce a brief report on the context and relevant literature review, with a clear statement of the aims and objectives, as well as a well-structured plan for the work to be done up to the project deadline. Max 2000 words.

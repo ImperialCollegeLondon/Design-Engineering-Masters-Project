@@ -54,16 +54,19 @@ A9: Your project report is submitted up to two weeks before the Viva. Assessors 
 
 ## Say you want to propose a project related to a specific area?
 
-A11: Review staff profiles to learn about their experience and research interests. Additionally, browse the published list of projects to identify potential Supervisors who have relevant expertise in your area of interest.  
+A10: Review staff profiles to learn about their experience and research interests. Additionally, browse the published list of projects to identify potential Supervisors who have relevant expertise in your area of interest.  
 
 ## What’s the rules on using AI ?  
 
-A11: All work submitted must be expressed in students’ own words, incorporating their own ideas and judgements. Any ideas, text, or computer code generated using generative AI tools, if included in students’ submissions, must be considered as originating from a third party and must thus be appropriately attributed and cited in line with best academic practice. Guidance on how to appropriately reference generative AI tools as sources is available from the [Library](https://www.imperial.ac.uk/admin-services/library/learning-support/reference-management/vancouver-style/your-reference-list/) (under G for Generative AI). Further guidance on use of such tools, and common issues associated with their use, can be found [here](https://www.imperial.ac.uk/admin-services/library/learning-support/generative-ai-guidance/). 
+A11: **School Policy is:** Students of the Dyson School of Design Engineering are permitted to make use of generative AI tools for the purposes of completing coursework assignments, unless specifically prohibited to do so in the relevant assignment brief.
 
-Failure to properly attribute the origin of 3rd party ideas presented in submitted work, whether from literature or an AI tool, constitutes plagiarism and will be prosecuted under the College’s  [Academic Misconduct Policy and Procedure](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/registry/academic-governance/public/academic-policy/academic-integrity/Academic-Misconduct-Policy-and-Procedure-v1.3-15.03.23.pdf). 
+All work submitted must be expressed in students’ own words, incorporating their own ideas and judgements. Any ideas, text, computer code, images, data, or other resources, generated using generative AI tools, if included in students’ submissions, must be considered as originating from a third party and must thus be appropriately attributed and cited in line with best academic practice. Guidance on how to appropriately reference generative AI tools as sources is available from the [Library](https://www.imperial.ac.uk/admin-services/library/learning-support/reference-management/vancouver-style/your-reference-list/) (under G for Generative AI). Further guidance on the use of such tools, and common issues associated with their use, can be found [here](https://www.imperial.ac.uk/admin-services/library/learning-support/generative-ai-guidance/).
 
-Where generative AI tools have been utilised in the process of generating a document or presentation for the purposes of improving the readability, presentations, or language of a student’s original work, a notice of which tools were used, and for what purpose, should appear following the list of references. 
+Failure to properly attribute the origin of 3rd party ideas presented in submitted work, whether from literature or an AI tool, constitutes plagiarism and will be prosecuted under the College’s [Academic Misconduct Policy and Procedure](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/registry/academic-governance/public/academic-policy/academic-integrity/Academic-Misconduct-Policy-and-Procedure-v1.3-15.03.23.pdf).
+     
+Where generative AI tools have been used in the process of generating a document or presentation for the purposes of improving the readability, presentations, or language of a student’s original work, a notice of which tools were used, and for what purpose, should appear following the list of references.
 
+**Summary:**
 You must also be able to stand by the content of your submission. It is you who is writing the report on your response to your brief, and who will be viva examined on its content. Be cautious in uncritically accepting suggestions from a system that cannot [tell you how many Rs in the word strawberry](https://www.youtube.com/shorts/7pQrMAekdn4).
 
 ## What’s the weighting Report/Viva? 
@@ -107,3 +110,29 @@ A17.2: Scope your self-generated project concepts with potential Project Supervi
 A18: After the Student Rankings closes (Tuesday 15 October 2024, 14:00), Supervisors will be able to see which students chose their projects and rank them in order of preference. The module leads will then run an automatic program to match Supervisors with students. We have had very good success with this in previous years. 
 
 If you are in the supervisor’s top choices within their capacity and the project is your top rank, you will be matched together.
+
+## Do the abstract and acknowledgements contribute to the word count?
+
+No to both.
+The abstract is a self-contained executive summary of the approach and outcomes of the paper, it stands outside the main body and therefore can stand outside the word count.
+Students will want to acknowledge support in their paper, but will be competing for space for text that they rely on for demonstrating assessment criteria. To relieve this, acknowledgements are excluded.
+
+## Should I include […] in my report or can I leave this for the viva?
+
+All results and must be presented in the main text of the report as well as anything you are relying on to meet assessment criteria.
+The viva will allow examiners to probe further, clarify, and discuss aspects that you have reported on.
+
+Some of the assessment criteria such as project management or personal reflection may seem alien in a scientific report, but are a part of the Design Engineering Master's Project report submission.
+As above these should be included in the main text. You may wish to opt for a short self-contained section on each.
+
+## Figures, Tables, etc and their captions?
+
+Not part of the word count. Should be labelled such that they can be referred to in the main text (e.g. Fig. 1.2).
+It's bad practice to have floating items that are not referred to in the main text body.
+
+## What is the role of appendices?
+
+Appendices, or Supplementary Information, are additional resources that supports the main text body, but that you are not relying on for the main body to be a self-contained piece of scientific communication.
+You don't need to include any. And there is no guarantee an examiner will read them.
+Like figures and tables, they should be referred to in the main text to give the examiners the opportunity to view them.
+You may link out to external resources you've used such as data and code repositories, project management tools, notebooks etc.
