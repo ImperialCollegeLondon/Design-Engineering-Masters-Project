@@ -6,7 +6,7 @@ Within the first weeks of the Autumn Term, you will be able to choose between an
 ### The allocation portal and academic-generated projects
 You can find the academic proposed projects on Blackboard, or after agreeing with a supervisor you can provide your own. When you are ready, use the link below to submit your ranking. This can be edited and returned to.
 
-* [Blackboard link to Tutor Briefs (Make sure you're logged on)](https://bb.imperial.ac.uk/bbcswebdav/pid-3297113-dt-content-rid-19803747_1/xid-19803747_1)
+* [Blackboard link to Tutor Briefs (Make sure you're logged on)](https://bb.imperial.ac.uk/ultra/courses/_41353_1/cl/outline)
 * [Submit Project Ranking](https://forms.office.com/e/YtkXB7Lht6)
 
 ### Student-generated projects
