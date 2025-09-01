@@ -2,6 +2,9 @@
 
 In response to student feedback and to improve the module, the following changes have been made from last year.
 
+## 2025/26
+* Viva renamed to oral examination.
+
 ## 2024/25
 * New streamlined [Module Handbook](../).
 * Assessment Criteria descriptors have been redefined to be easier to observe meeting.

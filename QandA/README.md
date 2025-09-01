@@ -48,9 +48,11 @@ The listed projects have been developed by the School’s Academics, with some i
 
 A8:  Your Project Supervisor is not responsible for summative assessment of your project work. However, they play a crucial role in your success by guiding you through the project and providing regular feedback. Additionally, Project Supervisors nominate and provide context on the quality of your work to the first Assessor, contributing to the summative assessment process.
 
-## Is report evaluated along the viva? As in is it read before or not 
+## Is report evaluated along the oral examination? As in is it read before or not 
 
-A9: Your project report is submitted up to two weeks before the Viva. Assessors will review your report in preparation for the Viva. Both your report and Viva are assessed using the single rubric provided in the handbook.
+A9: Your project report is submitted up to two weeks before the Oral Examination.
+Assessors will review your report in preparation for the oral examination.
+Both your report and oral examination are assessed using the single rubric provided in the handbook.
 
 ## Say you want to propose a project related to a specific area?
 
@@ -63,17 +65,17 @@ A11: **School Policy is:** Students of the Dyson School of Design Engineering ar
 All work submitted must be expressed in students’ own words, incorporating their own ideas and judgements. Any ideas, text, computer code, images, data, or other resources, generated using generative AI tools, if included in students’ submissions, must be considered as originating from a third party and must thus be appropriately attributed and cited in line with best academic practice. Guidance on how to appropriately reference generative AI tools as sources is available from the [Library](https://www.imperial.ac.uk/admin-services/library/learning-support/reference-management/vancouver-style/your-reference-list/) (under G for Generative AI). Further guidance on the use of such tools, and common issues associated with their use, can be found [here](https://www.imperial.ac.uk/admin-services/library/learning-support/generative-ai-guidance/).
 
 Failure to properly attribute the origin of 3rd party ideas presented in submitted work, whether from literature or an AI tool, constitutes plagiarism and will be prosecuted under the College’s [Academic Misconduct Policy and Procedure](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/registry/academic-governance/public/academic-policy/academic-integrity/Academic-Misconduct-Policy-and-Procedure-v1.3-15.03.23.pdf).
-     
+
 Where generative AI tools have been used in the process of generating a document or presentation for the purposes of improving the readability, presentations, or language of a student’s original work, a notice of which tools were used, and for what purpose, should appear following the list of references.
 
 **Summary:**
-You must also be able to stand by the content of your submission. It is you who is writing the report on your response to your brief, and who will be viva examined on its content. Be cautious in uncritically accepting suggestions from a system that cannot [tell you how many Rs in the word strawberry](https://www.youtube.com/shorts/7pQrMAekdn4).
+You must also be able to stand by the content of your submission. It is you who is writing the report on your response to your brief, and who will be orally examined on its content. Be cautious in uncritically accepting suggestions from a system that cannot [tell you how many Rs in the word strawberry](https://www.youtube.com/shorts/7pQrMAekdn4).
 
-## What’s the weighting Report/Viva? 
+## What’s the weighting Report/Oral Examination? 
 
-A12: The Report and Viva are the modes by which you demonstrate your meeting of the assessment criteria. There is no individual mark for either component individually, only for the project response as a single item, as evidenced by the report and viva. 
+A12: The Report and oral examination are the modes by which you demonstrate your meeting of the assessment criteria. There is no individual mark for either component individually, only for the project response as a single item, as evidenced by the report and oral examination. 
 
-The report and viva themselves are observed in the Communication learning outcome.
+The report and oral examination themselves are observed in the Communication learning outcome.
 
 ## When do we get to know who our assessors are? 
 
@@ -117,10 +119,10 @@ No to both.
 The abstract is a self-contained executive summary of the approach and outcomes of the paper, it stands outside the main body and therefore can stand outside the word count.
 Students will want to acknowledge support in their paper, but will be competing for space for text that they rely on for demonstrating assessment criteria. To relieve this, acknowledgements are excluded.
 
-## Should I include […] in my report or can I leave this for the viva?
+## Should I include […] in my report or can I leave this for the oral examination?
 
 All results and must be presented in the main text of the report as well as anything you are relying on to meet assessment criteria.
-The viva will allow examiners to probe further, clarify, and discuss aspects that you have reported on.
+The oral examination will allow examiners to probe further, clarify, and discuss aspects that you have reported on.
 
 Some of the assessment criteria such as project management or personal reflection may seem alien in a scientific report, but are a part of the Design Engineering Master's Project report submission.
 As above these should be included in the main text. You may wish to opt for a short self-contained section on each.

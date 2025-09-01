@@ -17,4 +17,4 @@
 ## Summer Term
 * **Week 6, Thursday 05 June 2025, 16:00** Final Report Submission
 * **Week 7, TBC** Demo Day
-* **Week 8.** Vivas – Individually Scheduled
+* **Week 8.** Oral examinations – Individually Scheduled

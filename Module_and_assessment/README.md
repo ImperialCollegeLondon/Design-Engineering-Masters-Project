@@ -4,7 +4,7 @@ The Design Engineering Master's Project is the capstone final year individual pr
 
 The assessment brief is for you to lead a self-contained project that sits within a wider Design Engineering context, developing a brief and producing a response to your chosen problem using a chosen set of design engineering methodologies and with a focus on bench-marking and validating your response, and positioning it within its wider context.
 
-The summative assessment for the module will take the form of a viva for which you will have prepared a written report, using both modes to communicate to your examiners how your project response has met the assessment criteria detailed below.
+The summative assessment for the module will take the form of an oral examination for which you will have prepared a written report, using both modes to communicate to your examiners how your project response has met the assessment criteria detailed below.
 
 There is also formative assessment throughout the year in the form of early and late stage gateways.
 
@@ -117,15 +117,15 @@ Aligned to the learning outcomes of the module and the programme, and to the ass
 			</th>
 			<td><ul>
 				<li>Documents the process with a light level of clarity and detail.</li>
-				<li>Communicates through the report and viva what was done to meet the other assessment criteria.</li>
-				<li>Answers most of the assessors’ questions at the viva</li>
+				<li>Communicates through the report and oral examination what was done to meet the other assessment criteria.</li>
+				<li>Answers most of the assessors’ questions at the oral examination</li>
 			</ul></td>
 			<td><ul>
 				<li>Documents the process thoroughly, ensuring it is easily repeatable and justifiable.</li>
 				<li>Structures the report effectively and writes in clear, engaging language with appropriate flow. Presents and supports arguments well.</li>
 				<li>Represents and visualizes the project (data, ideas, concepts, testing) in a manner that communicates effectively.</li>
-				<li>Delivers a comprehensive description of the project’s final response during the VIVA, following a clear narrative that explains the output.</li>
-				<li>Responds clearly and thoroughly to all questions from the VIVA assessors, demonstrating ownership of the project ideas, along with a strong understanding of the context, methods and tools.</li>
+				<li>Delivers a comprehensive description of the project’s final response during the oral examination, following a clear narrative that explains the output.</li>
+				<li>Responds clearly and thoroughly to all questions from the assessors at the oral examination, demonstrating ownership of the project ideas, along with a strong understanding of the context, methods and tools.</li>
 			</ul></td>
 		</tr>
 	</tbody>
@@ -147,11 +147,11 @@ Then for the overall assessment, you will receive a grade that is commensurate w
 **Important:** Students must meet all assessment criteria at passing level to achieve a passing mark for this assessment.
 
 ## Independent Assessment
-You will be assessed on your **Project Response** and how it meets the assessment criteria based on a **45 m Viva** for which you will have submitted a 7000 word (±10%) **Project Report**. See [Timetable](../Timetable/README.md) for deadline information.
+You will be assessed on your **Project Response** and how it meets the assessment criteria based on a **45 m Oral Examination** for which you will have submitted a 7000 word (±10%) **Project Report**. See [Timetable](../Timetable/README.md) for deadline information.
 
-* **Project Response** – This is the output of the project itself, whether a prototype, a product, experimental data, a research study, etc. There is no need to submit this item through a deliverable, but there will be the opportunity for you to show it and, if applicable, demonstrate its functionalities during the DEMO Day and/or VIVA.
+* **Project Response** – This is the output of the project itself, whether a prototype, a product, experimental data, a research study, etc. There is no need to submit this item through a deliverable, but there will be the opportunity for you to show it and, if applicable, demonstrate its functionalities during the DEMO Day and/or oral examination.
 * **Project Report** – A 7000 word (a 10% variation will be considered acceptable) report, to be submitted via Blackboard. Examples of reports from past projects are linked in the Introduction to the Master's Project document, available from Blackboard.
-* **Viva** – 15-minute presentation plus 30-minute Q&A, with the 1st and 2nd independent assessors.
+* **Oral Examination** – 15-minute presentation plus 30-minute Q&A, with the 1st and 2nd independent assessors.
 
 The assessment is independent of your supervisor, though they will write a contextualising statement, and is conducted by your two independent assessors. See [details of how these are selected](../Allocation/README.md).
 
