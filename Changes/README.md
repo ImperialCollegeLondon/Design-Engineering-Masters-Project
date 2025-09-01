@@ -3,6 +3,7 @@
 In response to student feedback and to improve the module, the following changes have been made from last year.
 
 ## 2025/26
+* Students must pass all [assessment criteria}(../Module_and_assessment) to pass the module.
 * Viva renamed to oral examination.
 
 ## 2024/25
