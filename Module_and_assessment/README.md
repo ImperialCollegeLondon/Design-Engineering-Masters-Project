@@ -22,9 +22,15 @@ Aligned to the learning outcomes of the module and the programme, and to the ass
 	<tbody style="vertical-align: top;">
 		<tr>
 			<th scope="row">Contextual Investigation
-				<div style="font-weight: normal; font-size: smaller;">
+				<p style="font-weight: normal; font-size: smaller;">
 					Analyse and define original insights from research into complex scenarios for design engineering.
-				</div>
+				</p>
+				<p style="font-weight: normal; font-size: smaller;">
+					<strong>M4 Technical literature</strong>Select and critically evaluate technical literature and other sources of information to solve complex problems
+				</p>
+				<p style="font-weight: normal; font-size: smaller;">
+					<strong>M5 Design</strong>Design solutions for complex problems that evidence some originality and meet a combination of societal, user, business and customer needs as appropriate. This will involve consideration of applicable health & safety, diversity, inclusion, cultural, societal, environmental and commercial matters, codes of practice and industry standards
+				</p>
 			</th>
 			<td><ul>
 				<li>Defines the project within its own immediate context.</li>
