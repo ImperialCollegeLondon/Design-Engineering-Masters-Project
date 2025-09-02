@@ -44,8 +44,13 @@ Where generative AI tools have been used in the process of generating a document
 or language of a student’s original work, a notice of which tools were used, and for what purpose, should appear following the list of references.
 
 ## Budget
-Your Supervisor will administer a budget of £200 for your project. Every purchase has to be approved by your Supervisor in advance.
-Claims will be received by depurchasing@imperial.ac.uk, when you submit your final report and, by all means, no later than **30th June 2025** (claims submitted after that date will not be accepted).
+Your Supervisor will administer a budget of £200 for your project.
+**Every purchase has to be approved by your Supervisor in advance,**
+and must adhere to Department and Imperial purchasing and expense policy.
+
+Claims are to be sent to
+[depurchasing@imperial.ac.uk](depurchasing@imperial.ac.uk)
+no later than **30th June** (claims submitted after that date will not be accepted).
 To claim expenses, please follow this procedure:
 * [Download and fill in an Expense Claim Form (E1)](https://www.imperial.ac.uk/finance/financial-services/expenses/). As 'Activity/Project No' use **NDAA-G47524**, and ask your Supervisor to sign under 'Secondary department authorisation'.
-* Send or email the Expense Claim Form (E1) and the original receipts to depurchasing@imperial.ac.uk, with c.c. to your Supervisor.
+* Send or email the Expense Claim Form (E1) and the original receipts to [depurchasing@imperial.ac.uk](depurchasing@imperial.ac.uk), with c.c. to your Supervisor.
