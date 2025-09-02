@@ -1,5 +1,9 @@
 # Q & A
 
+* [Selecting your project](#selecting_your_project)
+* [Supervision](#supervision)
+* [Assessment](#assessment)
+
 ## Selecting your project
 
 ### What are the steps we have to take if we want to do a masters with a company.
@@ -112,14 +116,15 @@ The report and oral examination themselves are observed in the *Communication* l
 
 ### What are the rules on using AI?
 
-See the [AI Policy](../Procedures#ai-Policy) section of the handbook.
+See the [AI Policy](../Procedures#ai-policy) section of the handbook.
 
 **Summary:**
 You can use AI, but need to reference it as a third party source.
 You must also be able to stand by the content of your submission.
 It is you who is writing the report on your response to your brief,
 and who will be orally examined on its content.
-Be cautious in uncritically accepting suggestions from a system that cannot [tell you how many Rs in the word strawberry](https://www.youtube.com/shorts/7pQrMAekdn4).
+Be cautious in uncritically accepting suggestions from a system that cannot
+[tell you how many Rs in the word strawberry](https://www.youtube.com/shorts/7pQrMAekdn4).
 
 ### When do we get to know who our assessors are? 
 
