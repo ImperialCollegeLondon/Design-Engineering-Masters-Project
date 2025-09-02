@@ -6,6 +6,7 @@ In response to student feedback and to improve the module, the following changes
 * Students must pass all [assessment criteria](../Module_and_assessment) to pass the module.
 * Viva renamed to oral examination.
 * Added ethics approval guidance to the [procedures section](../Procedures).
+* Word count changed from "7000 words ±10%" to "up-to 7700 words".
 
 ## 2024/25
 * New streamlined [Module Handbook](../).

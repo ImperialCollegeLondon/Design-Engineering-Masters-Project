@@ -147,10 +147,11 @@ Then for the overall assessment, you will receive a grade that is commensurate w
 **Important:** Students must meet all assessment criteria at passing level to achieve a passing mark for this assessment.
 
 ## Independent Assessment
-You will be assessed on your **Project Response** and how it meets the assessment criteria based on a **45 m Oral Examination** for which you will have submitted a 7000 word (±10%) **Project Report**. See [Timetable](../Timetable/README.md) for deadline information.
+You will be assessed on your **Project Response** and how it meets the assessment criteria based on a **45 m Oral Examination** for which you will have submitted a **Project Report** no longer than 7700 words. See [Timetable](../Timetable/README.md) for deadline information.
 
 * **Project Response** – This is the output of the project itself, whether a prototype, a product, experimental data, a research study, etc. There is no need to submit this item through a deliverable, but there will be the opportunity for you to show it and, if applicable, demonstrate its functionalities during the DEMO Day and/or oral examination.
-* **Project Report** – A 7000 word (a 10% variation will be considered acceptable) report, to be submitted via Blackboard. Examples of reports from past projects are linked in the Introduction to the Master's Project document, available from Blackboard.
+* **Project Report** – A report no longer than 7700 words, to be submitted via Blackboard in pdf format.
+Examples of reports from past projects are linked in the Introduction to the Master's Project document, available from Blackboard.
 * **Oral Examination** – 15-minute presentation plus 30-minute Q&A, with the 1st and 2nd independent assessors.
 
 The assessment is independent of your supervisor, though they will write a contextualising statement, and is conducted by your two independent assessors. See [details of how these are selected](../Allocation/README.md).
