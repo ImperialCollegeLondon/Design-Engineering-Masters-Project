@@ -167,6 +167,8 @@ Learning Outcomes are mapped below the module learning outcomes.
 	</tbody>
 </table>
 
+**Important:** Students must meet all assessment criteria at passing level to achieve a passing mark for this assessment.
+
 For each learning outcome, you'll be graded to what level you met the specifications,
 
 | Grade   | Indicative Level                                                                    |
@@ -179,8 +181,6 @@ For each learning outcome, you'll be graded to what level you met the specificat
 | **A\*** | As with **A**, and exceptionally went above and beyond the excellent criteria. |
 
 Then for the overall assessment, you will receive a grade that is commensurate with the grades for the individual learning outcomes, weighted by the independent assessors as appropriate for the specific nature of the project. The overall grade will be given with + and - modifiers to indicate whether you are in the low (0,1,2) or high (7,8,9) range, but the individual criteria are only specified to letter level.
-
-**Important:** Students must meet all assessment criteria at passing level to achieve a passing mark for this assessment.
 
 ## Independent Assessment
 You will be assessed on your **Project Response** and how it meets the assessment criteria based on a **45 m Oral Examination** for which you will have submitted a **Project Report** no longer than 7700 words. See [Timetable](../Timetable/README.md) for deadline information.
