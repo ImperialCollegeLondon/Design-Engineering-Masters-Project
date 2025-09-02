@@ -26,10 +26,12 @@ Aligned to the learning outcomes of the module and the programme, and to the ass
 					Analyse and define original insights from research into complex scenarios for design engineering.
 				</p>
 				<p style="font-weight: normal; font-size: smaller;">
-					<strong>M4 Technical literature</strong>Select and critically evaluate technical literature and other sources of information to solve complex problems
+					<strong>M4 Technical literature</strong>
+					Select and critically evaluate technical literature and other sources of information to solve complex problems.
 				</p>
 				<p style="font-weight: normal; font-size: smaller;">
-					<strong>M5 Design</strong>Design solutions for complex problems that evidence some originality and meet a combination of societal, user, business and customer needs as appropriate. This will involve consideration of applicable health & safety, diversity, inclusion, cultural, societal, environmental and commercial matters, codes of practice and industry standards
+					<strong>M5 Design</strong>
+					Design solutions for complex problems that evidence some originality and meet a combination of societal, user, business and customer needs as appropriate. This will involve consideration of applicable health & safety, diversity, inclusion, cultural, societal, environmental and commercial matters, codes of practice and industry standards.
 				</p>
 			</th>
 			<td><ul>
@@ -47,9 +49,13 @@ Aligned to the learning outcomes of the module and the programme, and to the ass
 		</tr>
 		<tr>
 			<th scope="row">Project Management
-				<div style="font-weight: normal; font-size: smaller;">
+				<p style="font-weight: normal; font-size: smaller;">
 					Manage a significant design engineering project which includes high levels of complexity and uncertainty.
-				</div>
+				</p>
+				<p style="font-weight: normal; font-size: smaller;">
+					<strong>M14 Quality management</strong>
+					Discuss the role of quality management systems and continuous improvement in the context of complex problems.
+				</p>
 			</th>
 			<td><ul>
 				<li>Creates a structured work plan, appropriate for the project’s scope, complexity, and timeline.</li>
@@ -66,9 +72,17 @@ Aligned to the learning outcomes of the module and the programme, and to the ass
 		</tr>
 		<tr>
 			<th scope="row">Design Engineering Process
-				<div style="font-weight: normal; font-size: smaller;">
+				<p style="font-weight: normal; font-size: smaller;">
 					Create an original resolved response to complex challenges by applying a comprehensive set of design engineering tools and methods.
-				</div>
+				</p>
+				<p style="font-weight: normal; font-size: smaller;">
+					<strong>M6 Integrated/systems approach</strong>
+					Apply an integrated or systems approach to the solution of complex problems.
+				</p>
+				<p style="font-weight: normal; font-size: smaller;">
+					<strong>M13 Materials, equipment, technologies and processes</strong>
+					Select and apply appropriate materials, equipment, engineering technologies and processes, recognising their limitations.
+				</p>
 			</th>
 			<td><ul>
 				<li>Produces a resolved response to the project.</li>
@@ -86,9 +100,13 @@ Aligned to the learning outcomes of the module and the programme, and to the ass
 		</tr>
 		<tr>
 			<th scope="row">Validation
-				<div style="font-weight: normal; font-size: smaller;">
+				<p style="font-weight: normal; font-size: smaller;">
 					Evaluate systems that are complex or ambiguous with appropriate design engineering methods and approaches, assessing their potential social, environmental, technological and economic impact.
-				</div>
+				</p>
+				<p style="font-weight: normal; font-size: smaller;">
+					<strong>M2 Problem analysis​</strong>
+					Formulate and analyse complex problems to reach substantiated conclusions. This will involve evaluating available data using first principles of mathematics, statistics, natural science and engineering principles, and using engineering judgment to work with information that may be uncertain or incomplete, discussing the limitations of the techniques employed.
+				</p>
 			</th>
 			<td><ul>
 				<li>Provides some discussion on how the success of the project can be measured.</li>
@@ -102,9 +120,13 @@ Aligned to the learning outcomes of the module and the programme, and to the ass
 		</tr>
 		<tr>
 			<th scope="row">Reflection
-				<div style="font-weight: normal; font-size: smaller;">
+				<p style="font-weight: normal; font-size: smaller;">
 					Reflect critically on their own project work in the context of well selected benchmarks and a growth mindset.
-				</div>
+				</p>
+				<p style="font-weight: normal; font-size: smaller;">
+					<strong>M18 Lifelong learning</strong>
+					Plan and record self-learning and development as the foundation for lifelong learning/CPD
+				</p>
 			</th>
 			<td><ul>
 				<li>Provides some discussion about personal professional skills development throughout the course of the project.</li>
@@ -117,9 +139,13 @@ Aligned to the learning outcomes of the module and the programme, and to the ass
 		</tr>
 		<tr>
 			<th scope="row">Communication
-				<div style="font-weight: normal; font-size: smaller;">
+				<p style="font-weight: normal; font-size: smaller;">
 					Synthesise design engineering project outcomes in a range of effective communications materials.
-				</div>
+				</p>
+				<p style="font-weight: normal; font-size: smaller;">
+					<strong>M17 Communication​</strong>
+					Communicate effectively on complex engineering matters with technical and non-technical audiences, evaluating the effectiveness of the methods used
+				</p>
 			</th>
 			<td><ul>
 				<li>Documents the process with a light level of clarity and detail.</li>
