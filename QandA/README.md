@@ -1,6 +1,6 @@
 # Q & A
 
-* [Selecting your project](#selecting_your_project)
+* [Selecting your project](#selecting-your-project)
 * [Supervision](#supervision)
 * [Assessment](#assessment)
 
