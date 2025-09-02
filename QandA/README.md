@@ -162,4 +162,4 @@ Appendices, or Supplementary Information, are additional resources that supports
 You don't need to include any. And there is no guarantee an examiner will read them.
 Like figures and tables, they should be referred to in the main text to give the examiners the opportunity to view them.
 You may link out to external resources you've used such as data and code repositories, project management tools, notebooks etc.
-Please make sure your assessors are able to access any resources you rely on at submission time without them requiring any external accounts.
+**Please make sure your assessors are able to access any resources you rely on at submission time without them requiring any external accounts.**
