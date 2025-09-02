@@ -22,7 +22,8 @@ See the
 [Blackboard Link](https://bb.imperial.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_904568_1&course_id=_7973_1&mode=reset)
 for the full procedure and further resources.
 
-[Student Research Ethics Approval](https://imperiallondon.sharepoint.com/sites/foe/designeng/EthicsApproval/SitePages/Home.aspx)
+When you're ready to apply for ethics approval, use the
+[Student Research Ethics Approval From](https://imperiallondon.sharepoint.com/sites/foe/designeng/EthicsApproval/SitePages/Home.aspx).
 
 ## AI Policy
 Students of the Dyson School of Design Engineering are permitted to make use of generative AI tools for the purposes of completing coursework assignments,
