@@ -9,7 +9,11 @@ The summative assessment for the module will take the form of an oral examinatio
 There is also formative assessment throughout the year in the form of early and late stage gateways.
 
 ## Assessment Criteria
-Aligned to the learning outcomes of the module and the programme, and to the assessment brief. Your project will be assessed on the six module learning outcomes, with finer grained assessment criteria within. Each criterion will be graded to whether it meets the passing descriptors and then to what level the excellent descriptors are met.
+Aligned to the learning outcomes of the module and the programme, and to the assessment brief.
+Your project will be assessed on the six module learning outcomes, with finer grained assessment criteria within. Each criterion will be graded to whether it meets the passing descriptors and then to what level the excellent descriptors are met.
+Engineering Council
+<abbr title="Accreditation of Higher Education Programmes, Fourth Edition">AHEP-4</abbr>
+Learning Outcomes are mapped below the module learning outcomes.
 
 <table style="text-align: left;">
 	<thead>
