@@ -7,6 +7,7 @@ In response to student feedback and to improve the module, the following changes
 * Viva renamed to oral examination.
 * Added ethics approval guidance to the [procedures section](../Procedures).
 * Word count changed from "7000 words ±10%" to "up-to 7700 words".
+* AHEP-4 Learning Outcomes added to assessment criteria.
 
 ## 2024/25
 * New streamlined [Module Handbook](../).
