@@ -25,6 +25,41 @@ for the full procedure and further resources.
 When you're ready to apply for ethics approval, use the
 [Student Research Ethics Approval From](https://imperiallondon.sharepoint.com/sites/foe/designeng/EthicsApproval/SitePages/Home.aspx).
 
+## Safety, Risk Assessment, Workshop and Lab Activities
+Individuals need to consider the potential hazards associated with their work and assess whether there is a risk to themselves or others.
+If it is determined that a risk assessment is required,
+it must be completed before work starts,
+normally at the start of the module.
+A review is necessary if any changes are made to the project’s experiments or activities,
+or if any incidents occur.
+
+The supervisor is responsible for ensuring that work is covered by a risk assessment.
+This can be an existing risk assessment, but if an existing assessment does not cover the experiment or activity,
+a new risk assessment must be completed; the supervisor must assist the individual in completing the assessment. All risk assessments must be completed on CoreStream unless the template is unavailable,
+in which case individuals should refer to the
+[Safety Form's](https://www.imperial.ac.uk/admin-services/safety/forms/) page.
+
+The risk assessment must be approved by both the supervisor and the School Safety Officer before work commences.
+Failure to provide a valid risk assessment will result in work being stopped immediately.
+
+If work is being carried out on campus, it must be done in the appropriate spaces,
+such as 1M08, Basement Labs, or ACE, for example.
+The Ideas Lab and Advanced Hackspace are not to be used for Master’s projects.
+Departmental spaces designated for teaching, meeting rooms, breakout spaces,
+or other areas managed by Imperial (e.g., the Abdus Salam Library)
+must not be used for laboratory or workshop activities.
+
+For offsite work, any projects conducted off campus that are to be submitted for assessment as part of the degree must be done in accordance with university regulations, rules, and guidelines.
+Activities that would require a risk assessment on campus must still have a risk assessment conducted, even if work is being carried out at home.
+
+This policy applies to all programmes associated with the School, and all risk assessments must be approved before work begins.
+
+### Workshop resources
+Workshop users must complete the necessary safety training and only use equipment as instructed by the technical team.
+Failure to comply with workshop health and safety procedures will result in disciplinary action.
+Further information can be found in the
+[Workshop Handbook](https://imperiallondon.sharepoint.com/sites/foe/designeng/Safety/_layouts/15/guestaccess.aspx?e=nCOuWM&share=EaEU7BwhLNNOijR_d1hi5QcBlWbYVYij1wJiQdcA8cUvGg).
+
 ## AI Policy
 Students of the Dyson School of Design Engineering are permitted to make use of generative AI tools for the purposes of completing coursework assignments,
 unless specifically prohibited to do so in the relevant assignment brief.
