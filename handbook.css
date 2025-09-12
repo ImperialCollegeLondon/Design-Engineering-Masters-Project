@@ -5,6 +5,6 @@ h1 a
 
 h1 a::after
 {
-    font-size: 2em;
-    content: "Design Engineering Master's Project";
+    font-size: 2rem;
+    content: "Design Engineering Master’s Project";
 }

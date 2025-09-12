@@ -1,4 +1,5 @@
 # Timetable
+<style>@import url("./handbook.css");</style>
 
 ## Autumn Term
 * **Week 1.** Student rankings of projects open for submission.

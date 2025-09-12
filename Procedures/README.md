@@ -1,4 +1,6 @@
 # Procedures, regulations, and other relevant matters
+<style>@import url("./handbook.css");</style>
+
 Here you'll be able to find relevant information about procedures, regulations and other matters related with the Master's Project.
 
 ## Supervision

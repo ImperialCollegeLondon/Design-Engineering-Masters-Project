@@ -1,4 +1,5 @@
 # Module descriptor and assessment brief
+<style>@import url("./handbook.css");</style>
 
 The Design Engineering Master's Project is the capstone final year individual project of the degree. It is a major project coursework that will take place over nine months, October to June.
 

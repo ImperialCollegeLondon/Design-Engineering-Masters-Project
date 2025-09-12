@@ -1,7 +1,8 @@
 # Projects, Supervisor, and Assessor Allocation
+<style>@import url("./handbook.css");</style>
 
 ## Brief overview of the project proposal and selection process
-Within the first weeks of the Autumn Term, you will be able to choose between an academic-generated project proposed by the one of the project tutors, or a student-generated project defined by yourself. In both cases, you will need to contact the potential Supervisor (either the one proposing a project you are interested in, or the one you believe is most suitable for supervising your student-generated project) as soon as possible. 
+Within the first weeks of the Autumn Term, you will be able to choose between an academic-generated project proposed by the one of the project tutors, or a student-generated project defined by yourself. In both cases, you will need to contact the potential Supervisor (either the one proposing a project you are interested in, or the one you believe is most suitable for supervising your student-generated project) as soon as possible.
 
 ### The allocation portal and academic-generated projects
 You can find the academic proposed projects on Blackboard, or after agreeing with a supervisor you can provide your own. When you are ready, use the link below to submit your ranking. This can be edited and returned to.
@@ -19,19 +20,19 @@ In case you have a project idea which involves collaboration with an external in
 After the allocation portal closes, [see Timetable](../Timetable/README.md), Supervisors will be able to see which students chose their projects, and rank them in order of preference. The module leads will then run an automatic program to match Supervisors with students, attempting to maximise the number of first and second choices. If needed (i.e. if in some cases the first or second chosen project cannot be allocated), the final decision will be made in consultation with the potential Supervisor.
 
 ## Types of projects
-We are proud that our students work on some of the most interdisciplinary and varied types of projects within the Faculty of Engineering. But this variance makes it more difficult to specify the expected outcomes of the projects. 
+We are proud that our students work on some of the most interdisciplinary and varied types of projects within the Faculty of Engineering. But this variance makes it more difficult to specify the expected outcomes of the projects.
 
 In order to facilitate a fair and consistent assessment, we recommend that projects fit within one of the four categories outlined here. Please note that this is only a recommendation - it is possible to select a project beyond these categories, but careful consideration should be made in regards to the [assessment criteria](../Module_and_assessment/README.md).
 
 ### Project category 1: Design, Build, & Test
-**Contribution**. This is the most common type of Master’s project. This type of projects produce embodiments in the form of digital, physical or mixed products or services that address a particular need or problem, or exploit an opportunity. 
+**Contribution**. This is the most common type of Master’s project. This type of projects produce embodiments in the form of digital, physical or mixed products or services that address a particular need or problem, or exploit an opportunity.
 
-**Focus**. This type of projects will focus on addressing the stated need, and the methodology.  Was the right design method used? Was design informed by best practices in the specific application domain? Is the prototype functional?  
-The measures of how well it solves the problems and/or exploit the opportunity are themselves part of the outcome. For example, if you build an app to help people with insomnia, the measure of success cannot just be the amount of time the app is used, but rather how it helps people sleep better. 
-The best measures to choose from often require a large sample of people to use them, and this puts the full evaluation out of the scope of the project. The best projects will show your skills designing, building and running a small pilot for the prototype, understanding of the time and resource limitations, but also the method that would be necessary for an accurate evaluation. 
-For products to be used by humans, user and market research (e.g. surveys, ethnography or interviews) in this type of project is often important for design and evaluation, but it could be done using less formal methods (e.g with smaller samples of participants, or without full transcripts being analysed). 
-For other projects where user experience is less important, public benchmarks are often available. 
-The embodiment for this type of projects usually requires some type of software or hardware implementation. 
+**Focus**. This type of projects will focus on addressing the stated need, and the methodology.  Was the right design method used? Was design informed by best practices in the specific application domain? Is the prototype functional?
+The measures of how well it solves the problems and/or exploit the opportunity are themselves part of the outcome. For example, if you build an app to help people with insomnia, the measure of success cannot just be the amount of time the app is used, but rather how it helps people sleep better.
+The best measures to choose from often require a large sample of people to use them, and this puts the full evaluation out of the scope of the project. The best projects will show your skills designing, building and running a small pilot for the prototype, understanding of the time and resource limitations, but also the method that would be necessary for an accurate evaluation.
+For products to be used by humans, user and market research (e.g. surveys, ethnography or interviews) in this type of project is often important for design and evaluation, but it could be done using less formal methods (e.g with smaller samples of participants, or without full transcripts being analysed).
+For other projects where user experience is less important, public benchmarks are often available.
+The embodiment for this type of projects usually requires some type of software or hardware implementation.
 
 **Sample project 1.** Combining digital and physical embodiments to address health and wellbeing problems: [Social Anxiety Sensing System (Ruksana Shaukat-Jali, 2020)](https://imperialcollegelondon.box.com/s/jyvqgnsntb8bg3t21z4wfqfzzb0ntp1w)
 
@@ -51,14 +52,14 @@ The embodiment for this type of projects usually requires some type of software 
 ### Project category 3: Modelling - Large Systems
 **Contribution**. Some systems cannot be built and tested because of their scale. Such as a new recycling plant, or a large-scale battery system, or again new train stations. These systems can be modelled, analysed, and optimised with outcomes that can inform their construction, or change of practice or operation.
 
-**Focus**. This type of projects focuses on how the analytical model fits the problem/opportunity, as well as the best practices to solve/exploit it. 
+**Focus**. This type of projects focuses on how the analytical model fits the problem/opportunity, as well as the best practices to solve/exploit it.
 a thorough understanding of the socio-technical context for the system is required, together with evidence of nuanced approaches to evaluating the proposed model, even if a prototype implementation is not possible. A carefully constructed argument is therefore essential, identifying the determinants and how the intervention would have the effect sought.
 
 **Sample project 6**. This project investigates ways to reduce suicide deaths in train stations. Since he could not implement the changes in real life, a VR model was developed and evaluated: [Behind the gap: Reducing railway deaths (Paolo Ruegg, 2019)](https://imperialcollegelondon.box.com/s/p94uapv1tmt9xowfmunleurggogr5p1m)
 
 
 ### Project category 4: Human systems
-**Contribution**. These are projects where the ‘core’ of the work is to improve our understanding of how human experience and perception work, as well as how these are affected by innovative products, technologies, systems and/or channels (e.g. commercialisation, retail/marketing/delivery channels, etc.). This could include studies on cultural aspects of design, ethnographies or mixed methods studies of people using new technologies in specific contexts. 
+**Contribution**. These are projects where the ‘core’ of the work is to improve our understanding of how human experience and perception work, as well as how these are affected by innovative products, technologies, systems and/or channels (e.g. commercialisation, retail/marketing/delivery channels, etc.). This could include studies on cultural aspects of design, ethnographies or mixed methods studies of people using new technologies in specific contexts.
 These projects generally require mixed methods approaches (interviews and surveys, qualitative and/or quantitative methods), or other human centred research methods such as design research.
 
 **Focus**. This type of projects employs methodological rigour, the understanding of the context, the domain literature as well as the empirical and theoretical contributions to advance the knowledge in the targeted area.
