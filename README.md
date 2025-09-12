@@ -17,13 +17,11 @@ We look forward to seeing your Master’s Projects come to life!
 ## Change log ##
 ```json
 {
-    "Version": "1.0.2",
-    "Updated": "2024-11-20"
+    "Version": "2.0.0",
+    "Updated": "2025-09-12"
 }
 ```
-* 1.0.2: New [Procedures, regulations, and other relevant matters](Procedures/README.md) section.
-* 1.0.1: New [Q&A](QandA/README.md) section.
-* 1.0.0: Initial Release for 2024/25.
+* 2.0.0: Initial Release for 2025/26.
 
 ## Acknowledgements
 To Prof. Lorenzo Picinali for writing the previous version of the handbook that this document is based on.
