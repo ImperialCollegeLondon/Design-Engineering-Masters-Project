@@ -1,5 +1,5 @@
 # Q & A
-<style>@import url("./handbook.css");</style>
+<style>@import url("../handbook.css");</style>
 
 * [Selecting your project](#selecting-your-project)
 * [Supervision](#supervision)

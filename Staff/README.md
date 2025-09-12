@@ -1,5 +1,5 @@
 # Module Team
-<style>@import url("./handbook.css");</style>
+<style>@import url("../handbook.css");</style>
 
 ## Module Leadership
 

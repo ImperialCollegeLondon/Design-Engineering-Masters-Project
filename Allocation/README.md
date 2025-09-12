@@ -1,5 +1,5 @@
 # Projects, Supervisor, and Assessor Allocation
-<style>@import url("./handbook.css");</style>
+<style>@import url("../handbook.css");</style>
 
 ## Brief overview of the project proposal and selection process
 Within the first weeks of the Autumn Term, you will be able to choose between an academic-generated project proposed by the one of the project tutors, or a student-generated project defined by yourself. In both cases, you will need to contact the potential Supervisor (either the one proposing a project you are interested in, or the one you believe is most suitable for supervising your student-generated project) as soon as possible.

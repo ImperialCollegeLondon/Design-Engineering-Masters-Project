@@ -1,5 +1,5 @@
 # You Said, We Did – Changes from last year
-<style>@import url("./handbook.css");</style>
+<style>@import url("../handbook.css");</style>
 
 In response to student feedback and to improve the module, the following changes have been made from last year.
 
