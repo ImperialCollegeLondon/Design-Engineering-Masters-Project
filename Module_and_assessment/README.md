@@ -186,8 +186,15 @@ Then for the overall assessment, you will receive a grade that is commensurate w
 You will be assessed on your **Project Response** and how it meets the assessment criteria based on a **45 m Oral Examination** for which you will have submitted a **Project Report** no longer than 7700 words. See [Timetable](../Timetable/README.md) for deadline information.
 
 * **Project Response** – This is the output of the project itself, whether a prototype, a product, experimental data, a research study, etc. There is no need to submit this item through a deliverable, but there will be the opportunity for you to show it and, if applicable, demonstrate its functionalities during the DEMO Day and/or oral examination.
-* **Project Report** – A report no longer than 7700 words, to be submitted via Blackboard in pdf format.
-Examples of reports from past projects are linked in the Introduction to the Master's Project document, available from Blackboard.
+* **Project Report** – A written report to be submitted via Blackboard.
+Examples of reports from past projects can be found [here](../Allocation/README.md).
+  * The main body text of the report must be in 12pt font size.
+  * Your report's main body should be no more than 35 pages.
+  * Front and back matter (which may include abstract, declaration of AI use, acknowledgments, references, etc.) do not count to the page limit.
+  * Appendices do not count to the page limit, they should be referenced in the main body, and are not guaranteed to be read.
+  * Include figures and tables within the main body of the report if they are essential to the narrative. They should be referenced to in the text. Do not place such items in the appendix solely to reduce page count.
+  * If a figure or table is directly referenced and contributes meaningfully to the discussion or analysis, it must appear in-line with the relevant text to maintain clarity and coherence.
+  * Your submission must be in .pdf format.
 * **Oral Examination** – 15-minute presentation plus 30-minute Q&A, with the 1st and 2nd independent assessors.
 
 The assessment is independent of your supervisor, though they will write a contextualising statement, and is conducted by your two independent assessors. See [details of how these are selected](../Allocation/README.md).

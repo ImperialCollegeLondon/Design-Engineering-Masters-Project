@@ -137,15 +137,15 @@ This is likely to vary from one project to another and so we recommend you seek 
 You should be able to go deeply into the detail you have been working on.
 But the context and positioning should be accessible to an academic reader not from the domain.
 
-### Do the abstract and acknowledgements contribute to the word count?
+### Do the abstract and acknowledgements contribute to the page count?
 
 No to both.
-The abstract is a self-contained executive summary of the approach and outcomes of the paper, it stands outside the main body and therefore can stand outside the word count.
-Students will want to acknowledge support in their paper, but will be competing for space for text that they rely on for demonstrating assessment criteria. To relieve this, acknowledgements are excluded.
+The abstract is a self-contained executive summary of the approach and outcomes of the paper; it stands outside the main body and is placed in the front matter.
+Students will want to acknowledge support in their paper, but will be competing for space for text that they rely on for demonstrating assessment criteria. To relieve this, acknowledgements are excluded and to be included in either the front or back matter.
 
 ### Should I include […] in my report or can I leave this for the oral examination?
 
-All results and must be presented in the main text of the report as well as anything you are relying on to meet assessment criteria.
+All results and must be presented in the main body of the report as well as anything you are relying on to meet assessment criteria.
 The oral examination will allow examiners to probe further, clarify, and discuss aspects that you have reported on.
 
 Some of the assessment criteria such as project management or personal reflection may seem alien in a scientific report, but are a part of the Design Engineering Master's Project report submission.
@@ -153,7 +153,8 @@ As above these should be included in the main text. You may wish to opt for a sh
 
 ### Figures, Tables, etc and their captions?
 
-Not part of the word count. Should be labelled such that they can be referred to in the main text (e.g. Fig. 1.2).
+If a figure or table is directly referenced and contributes meaningfully to the discussion or analysis, it must appear in-line with the relevant text to maintain clarity and coherence.
+Figures should be labelled such that they can be referred to in the main text (e.g. Fig. 1.2).
 It's bad practice to have floating items that are not referred to in the main text body.
 
 ### What is the role of appendices?
