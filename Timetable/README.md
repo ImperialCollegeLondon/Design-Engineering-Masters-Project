@@ -24,7 +24,7 @@
 * **Week 1.** Start of Term Briefing.
 * **Week 4.** Mid-term Town Hall.
 * **Week 6, Thursday 04 June, 16:00** Final Report Submission
-* **Week 7** Poster Symposium
+* **Week 7** Symposium
 * **Week 8.** Oral examinations – Individually Scheduled
 * **Week 9**. Reserved for rescheduling.
 
