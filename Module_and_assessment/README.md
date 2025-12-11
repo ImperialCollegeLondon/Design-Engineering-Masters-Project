@@ -184,7 +184,7 @@ For each learning outcome, you'll be graded to what level you met the specificat
 Then for the overall assessment, you will receive a grade that is commensurate with the grades for the individual learning outcomes, weighted by the independent assessors as appropriate for the specific nature of the project. The overall grade will be given with + and - modifiers to indicate whether you are in the low (0,1,2) or high (7,8,9) range, but the individual criteria are only specified to letter level.
 
 ## Independent Assessment
-You will be assessed on your **Project Response** and how it meets the assessment criteria based on a **45 m Oral Examination** for which you will have submitted a **Project Report** no longer than 7700 words. See [Timetable](../Timetable/README.md) for deadline information.
+You will be assessed on your **Project Response** and how it meets the assessment criteria based on a **45 m Oral Examination** for which you will have submitted a **Project Report**. See [Timetable](../Timetable/README.md) for deadline information.
 
 * **Project Response** – This is the output of the project itself, whether a prototype, a product, experimental data, a research study, etc. There is no need to submit this item through a deliverable, but there will be the opportunity for you to show it and, if applicable, demonstrate its functionalities during the DEMO Day and/or oral examination.
 * **Project Report** – A written report to be submitted via Blackboard.
