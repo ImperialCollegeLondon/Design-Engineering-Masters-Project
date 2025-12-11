@@ -17,10 +17,11 @@ We look forward to seeing your Master’s Projects come to life!
 ## Change log ##
 ```json
 {
-    "Version": "2.0.0",
-    "Updated": "2025-09-12"
+    "Version": "2.0.1",
+    "Updated": "2025-12-11"
 }
 ```
+* 2.0.1: Remove Erroneous reference to final report word count in [assignment brief](Module_and_assessment/README.md).
 * 2.0.0: Initial Release for 2025/26.
 
 ## Acknowledgements
