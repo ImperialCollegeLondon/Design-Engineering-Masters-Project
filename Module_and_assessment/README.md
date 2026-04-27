@@ -197,7 +197,7 @@ Examples of reports from past projects can be found [here](../Allocation/README.
   * If a figure or table is directly referenced and contributes meaningfully to the discussion or analysis, it must appear in-line with the relevant text to maintain clarity and coherence.
   * Your submission must be in .pdf format.
 * **Oral Examination** – 15-minute presentation plus 30-minute Q&A, with the 1st and 2nd independent assessors.
-  * Any presentation slides must be submitted before the start of the oral examinations; see the [timetable](../Timetable/README.md) for the deadline.
+  * Any presentation slides must be submitted via Blackboard before the start of the oral examinations; see the [timetable](../Timetable/README.md) for the deadline.
 
 The assessment is independent of your supervisor, though they will write a contextualising statement, and is conducted by your two independent assessors. See [details of how these are selected](../Allocation/README.md).
 
