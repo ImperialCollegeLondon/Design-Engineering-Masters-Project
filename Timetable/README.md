@@ -26,6 +26,7 @@
 * **Week 6, Thursday 04 June, 16:00** Final Report Submission
 * **Week 7** Symposium
 * **Week 8.** Oral examinations – Individually Scheduled
+	* **Monday 15 June, 16:00** Presentation Slides Submission
 * **Week 9**. Reserved for rescheduling.
 
 See [Imperial Term Dates](https://www.imperial.ac.uk/admin-services/registry/term-dates/)
