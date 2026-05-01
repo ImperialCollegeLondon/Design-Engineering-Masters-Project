@@ -25,6 +25,7 @@
 * **Week 4.** Mid-term Town Hall.
 * **Week 6, Thursday 04 June, 16:00** Final Report Submission
 * **Week 7** Symposium
+	* **Monday 8th June**, 11:00–13:00 and 14:00–16:00
 * **Week 8.** Oral examinations – Individually Scheduled
 	* **Monday 15 June, 16:00** Presentation Slides Submission
 * **Week 9**. Reserved for rescheduling.
