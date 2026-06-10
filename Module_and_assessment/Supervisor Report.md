@@ -1,3 +1,4 @@
+<style>@import url("../handbook.css");</style>
 # Design Engineering Master's Project – Supervisor Report Sheet
 
 This is the Supervisor Report Sheet for Design Engineering Master's Project.
