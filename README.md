@@ -21,7 +21,7 @@ We look forward to seeing your Master’s Projects come to life!
     "Updated": "2026-06-10"
 }
 ```
-* 2.1.1 Add [Supervisor Report](Module_and_assessment/Supervisor Report.md) sheet for review.
+* 2.1.1 Add [Supervisor Report](Module_and_assessment/Supervisor_Report.md) sheet for review.
 * 2.1.0: Add requirement to submit any presentation slides ahead of oral assessment.
 * 2.0.1: Remove Erroneous reference to final report word count in [assignment brief](Module_and_assessment/README.md).
 * 2.0.0: Initial Release for 2025/26.
