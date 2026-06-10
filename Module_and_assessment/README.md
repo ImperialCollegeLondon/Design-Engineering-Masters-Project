@@ -199,7 +199,7 @@ Examples of reports from past projects can be found [here](../Allocation/README.
 * **Oral Examination** – 15-minute presentation plus 30-minute Q&A, with the 1st and 2nd independent assessors.
   * Any presentation slides must be submitted via Blackboard before the start of the oral examinations; see the [timetable](../Timetable/README.md) for the deadline.
 
-The assessment is independent of your supervisor, though they will write a [contextualising statement](Supervisor Report.md), and is conducted by your two independent assessors. See [details of how these are selected](../Allocation/README.md).
+The assessment is independent of your supervisor, though they will write a [contextualising statement](Supervisor_Report.md), and is conducted by your two independent assessors. See [details of how these are selected](../Allocation/README.md).
 
 ## Early and Late Stage Gateways
 There are two formative assessment milestones in this module, the **Early Stage Gateway** (ESG) and **Late Stage Gateway** (LSG). They are conducted at the end of the first and second term respectively and are a check that you are on the right track to meet the assessment criteria of the module for your final submission. The gateways are conducted by your First Independent Assessor, you will receive feedback on the stage of your project and you must pass them in order to continue. There are three levels: Pass, Pass with some concerns, and Not passed – require re-assessment.
