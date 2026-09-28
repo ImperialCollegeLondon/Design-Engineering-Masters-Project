@@ -105,3 +105,7 @@ no later than **30th June** (claims submitted after that date will not be accept
 To claim expenses, please follow this procedure:
 * [Download and fill in an Expense Claim Form (E1)](https://www.imperial.ac.uk/finance/financial-services/expenses/). As 'Activity/Project No' use **NDAA-G47524**, and ask your Supervisor to sign under 'Secondary department authorisation'.
 * Send or email the Expense Claim Form (E1) and the original receipts to [depurchasing@imperial.ac.uk](depurchasing@imperial.ac.uk), with c.c. to your Supervisor.
+
+### Reports for future cohorts
+Your submitted reports may be used by the module team as showcase material for future cohorts.
+Please contact the module leaders if you wish to opt out of this.
