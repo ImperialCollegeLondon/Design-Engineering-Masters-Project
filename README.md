@@ -1,4 +1,4 @@
-# Module Handbook – 2025/26 – DESE70002
+# Module Handbook – 2026/27 – DESE70002
 <style>@import url("./handbook.css");</style>
 <div style="display:none;"><strong><a href="https://imperialcollegelondon.github.io/Design-Engineering-Masters-Project/">This module handbook is best viewed on GitHub Pages – Click to go there.</a></strong><br><br></div>
 
@@ -17,14 +17,11 @@ We look forward to seeing your Master’s Projects come to life!
 ## Change log ##
 ```json
 {
-    "Version": "2.1.1",
-    "Updated": "2026-06-10"
+    "Version": "3.0.0",
+    "Updated": "2026-09-28"
 }
 ```
-* 2.1.1 Add [Supervisor Report](Module_and_assessment/Supervisor_Report.md) sheet for review.
-* 2.1.0: Add requirement to submit any presentation slides ahead of oral assessment.
-* 2.0.1: Remove Erroneous reference to final report word count in [assignment brief](Module_and_assessment/README.md).
-* 2.0.0: Initial Release for 2025/26.
+* 3.0.0: Initial Release for 2026/27.
 
 ## Acknowledgements
 To Prof. Lorenzo Picinali for writing the previous version of the handbook that this document is based on.

@@ -81,12 +81,26 @@ constitutes plagiarism and will be prosecuted under the College’s
 Where generative AI tools have been used in the process of generating a document or presentation for the purposes of improving the readability, presentations,
 or language of a student’s original work, a notice of which tools were used, and for what purpose, should appear following the list of references.
 
-## Budget
-Your Supervisor will administer a budget of £200 for your project.
-**Every purchase has to be approved by your Supervisor in advance,**
-and must adhere to Department and Imperial purchasing and expense policy.
+**AI tools are not allowed during the Q&A section of the oral assessment.**
 
-Claims are to be sent to
+## Budget
+You have a budget of £250 for your project.
+
+**Every purchase has to be approved by your Supervisor in writing before buying anything,**
+and must adhere to [Imperial purchasing and expense policy](https://www.imperial.ac.uk/finance/financial-services/expenses/expenses-policy/).
+Items should normally be purchased from Imperial registered suppliers via iProcurement. Your supervisor can assist with this.
+
+Only in exceptional cases, for example when the required item is not available from a registered supplier,
+may you purchase it elsewhere.
+You must obtain your supervisor’s approval in advance and ensure that the item has a valid **Declaration of Conformity**,
+which must be submitted with your E1 claim form.
+
+You must keep auditable records of your purchases, their approval, and declarations of conformity.
+
+### E1 Expense form claims
+**Purchases on an E1 claim must not exceed £100.**
+
+E1 Claims are to be sent to
 [depurchasing@imperial.ac.uk](depurchasing@imperial.ac.uk)
 no later than **30th June** (claims submitted after that date will not be accepted).
 To claim expenses, please follow this procedure:

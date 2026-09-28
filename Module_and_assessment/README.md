@@ -43,7 +43,8 @@ Learning Outcomes are mapped below the module learning outcomes.
 				<li>Defines the project within its own immediate context.</li>
 				<li>Evaluates a range of sources and relevant previous work, demonstrating an understanding of existing solutions and approaches.</li>
 				<li>Analyses and integrates the broader context, and relevant previous work to develop understanding.</li>
-				<li>Defines project objectives by applying research findings.</li>
+				<li>Engages with stakeholders to gain insight into the problem.</li>
+				<li>Defines plausible project objectives demonstrably grounded in research findings.</li>
 			</ul></td>
 			<td><ul>
 				<li>Defines the project within its broader context, thoroughly considering relevant external factors such as social, environmental, technological, and economic influences.</li>
@@ -66,13 +67,14 @@ Learning Outcomes are mapped below the module learning outcomes.
 				<li>Creates a structured work plan, appropriate for the project’s scope, complexity, and timeline.</li>
 				<li>Proactively identifies and mitigates potential risks, including conducting ethical assessments, and implements suitable contingency plans.</li>
 				<li>Breaks down project tasks into more manageable chunks.</li>
+				<li>Manages project resources of logbook, code, or data in a structured and auditable way.</li>
+				<li>Manages other resources of ethics approvals, risk assessments, and expenses in a structured and auditable way.</li>
 			</ul></td>
 			<td><ul>
 				<li>Creates a detailed and structured work plan, based on realistic timelines, guided by similar projects, and accounting for potential uncertainties.</li>
 				<li>Adjusts and reworks the work plan in response to project pivots or changes in direction.</li>
 				<li>Effectively breaks down project tasks into manageable chunks and sets incremental goals to guide progress.</li>
 				<li>Identifies and actively manages stakeholders, engaging them through clear communication. Regularly gathers and incorporates stakeholder feedback into the project.</li>
-				<li>Manages project resources of logbook, code, or data in a structured and auditable way.</li>
 			</ul></td>
 		</tr>
 		<tr>
@@ -114,8 +116,9 @@ Learning Outcomes are mapped below the module learning outcomes.
 				</p>
 			</th>
 			<td><ul>
-				<li>Provides some discussion on how the success of the project can be measured.</li>
+				<li>Provides some informed discussion on how the success of the project can be measured.</li>
 				<li>Evaluates the performance of the final response against these success criteria.</li>
+				<li>Selects some relevant benchmarks and compares their project work, demonstrating an understanding of the strengths, weaknesses, and growth opportunities of the work.</li>
 			</ul></td>
 			<td><ul>
 				<li>Conducts rigorous testing at every stage of the design engineering process, ensuring continuous validation and refinement of solutions.</li>
@@ -135,11 +138,11 @@ Learning Outcomes are mapped below the module learning outcomes.
 			</th>
 			<td><ul>
 				<li>Provides some discussion about personal professional skills development throughout the course of the project.</li>
-				<li>Selects some relevant benchmarks and compares their project work, demonstrating an understanding of the strengths, weaknesses, and growth opportunities of the work.</li>
+				<li>Reflects on the positioning of the project within its wider context.</li>
 			</ul></td>
 			<td><ul>
 				<li>Critically reflects on personal professional skills development throughout the project, identifying how the opportunities aligned with existing skills, interests, limitations, and future goals, while presenting specific plans for improvement and acknowledging the project’s role in providing an appropriate challenge.</li>
-				<li>Selects highly relevant benchmarks and effectively compares their project work, demonstrating a clear understanding of standards or best practices, along with the strengths, weaknesses, and growth opportunities of the work.</li>
+				<li>Demonstrates a clear understanding of the strengths, weaknesses, and growth opportunities of the work. With reference to selected standards, best practices, and benchmarks</li>
 			</ul></td>
 		</tr>
 		<tr>
@@ -190,14 +193,16 @@ You will be assessed on your **Project Response** and how it meets the assessmen
 * **Project Report** – A written report to be submitted via Blackboard.
 Examples of reports from past projects can be found [here](../Allocation/README.md).
   * The main body text of the report must be in 12pt font size.
-  * Your report's main body should be no more than 35 pages.
+  * Your report's main body should be **no more than 15 pages**.
   * Front and back matter (which may include abstract, declaration of AI use, acknowledgments, references, etc.) do not count to the page limit.
   * Appendices do not count to the page limit, they should be referenced in the main body, and are not guaranteed to be read.
-  * Include figures and tables within the main body of the report if they are essential to the narrative. They should be referenced to in the text. Do not place such items in the appendix solely to reduce page count.
-  * If a figure or table is directly referenced and contributes meaningfully to the discussion or analysis, it must appear in-line with the relevant text to maintain clarity and coherence.
-  * Your submission must be in .pdf format.
+  * Include figures and tables within the main body of the report if they are essential to the narrative. They should be referenced to in the text.
+  * Your submission **must be in .pdf** format.
 * **Oral Examination** – 15-minute presentation plus 30-minute Q&A, with the 1st and 2nd independent assessors.
   * Any presentation slides must be submitted via Blackboard before the start of the oral examinations; see the [timetable](../Timetable/README.md) for the deadline.
+
+**All results to be assessed must be included in your written report.**
+This it to include evidence of you meeting all learning outcomes.
 
 The assessment is independent of your supervisor, though they will write a [contextualising statement](Supervisor_Report.md), and is conducted by your two independent assessors. See [details of how these are selected](../Allocation/README.md).
 

@@ -3,6 +3,13 @@
 
 In response to student feedback and to improve the module, the following changes have been made from last year.
 
+## 2026/27
+* Streamlined final report to only require [15 Pages](../Module_and_assessment/README.md#independent-assessment) on the main body text.
+* [AI](../Procedures/#ai-policy) is not allowed to be used in the Q&A section of the oral assessment.
+* [Assessment criteria](../Module_and_assessment) updated to include stakeholder engagement and auditable project management as passing criteria.
+* Additional [timetabled sessions](../Timetable).
+* Increased project budgets to £250. Revised [expenses rules](../Procedures).
+
 ## 2025/26
 * Students must pass all [assessment criteria](../Module_and_assessment) to pass the module.
 * Viva renamed to oral examination.

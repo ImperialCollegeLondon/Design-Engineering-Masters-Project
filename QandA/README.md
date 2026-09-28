@@ -13,7 +13,7 @@ In case you have a project idea which involves collaboration with an external in
 
 An industry partner should be aware that the project will be assessed through reports and presentations by academic first and second markers, as well as reviewed by the project supervisor. If your project involves the use of strategically sensitive data or technologies, or there is potential for new intellectual property, a non-disclosure agreement (NDA) may be necessary. 
 
-Student-partner NDAs are managed by the College, not the School. If this applies to your project, please reach out to Freddie and Andy, and they will help you connect with the appropriate team to handle the NDA process.
+Student-partner NDAs are managed by the College, not the School. If this applies to your project, please reach out to Freddie and Lorenzo, and they will help you connect with the appropriate team to handle the NDA process.
 
 ### If we have an idea that could fall into a tutor generated project brief, but doesn’t perfectly match it, should we bid for it or bid for a student generated project? 
 
@@ -25,7 +25,7 @@ In your project, you should aim to address a clearly definable situation. This d
 
 Review the [assessment criteria](../Module_and_assessment/) -
 if your project brief will allow you to demonstrate meeting these criteria, then your project aligns with expectations.
-If you remain unsure, discuss the matter with your Project Supervisor or Freddie and / or Andy.
+If you remain unsure, discuss the matter with your Project Supervisor or Freddie and / or Lorenzo.
 
 ### Can I do something that aligns with ERO and my electives, how would self plagiarism work and how much work/research can be transferable  
 
@@ -99,7 +99,7 @@ Additionally, Project Supervisors nominate and provide context on the quality of
 
 ### What happens if we have issues with our supervisor 
 
-A15: If you are unable to resolve issues with your Supervisor, please reach out to Freddie and/or Andy, and we will help mediate a resolution
+A15: If you are unable to resolve issues with your Supervisor, please reach out to Freddie and/or Lorenzo, and we will help mediate a resolution
 
 ## Assessment
 
