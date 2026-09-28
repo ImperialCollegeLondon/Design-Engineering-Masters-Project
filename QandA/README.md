@@ -35,7 +35,7 @@ You cannot submit for credit in one module work that has been submitted for cred
 
 ### Are some of the projects that have descriptions student proposed ones? 
 
-Projects submitted that have been marked as student proposed haven’t been included in the project list on Blackboard.
+Projects submitted that have been marked as student proposed haven’t been included in the project list on Canvas.
 The projects submitted by colleagues linked to a student are kept internally. 
 
 The listed projects have been developed by the School’s Academics, with some initiated in collaboration with academic, institutional, or industry partners.

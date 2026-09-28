@@ -190,7 +190,7 @@ Then for the overall assessment, you will receive a grade that is commensurate w
 You will be assessed on your **Project Response** and how it meets the assessment criteria based on a **45 m Oral Examination** for which you will have submitted a **Project Report**. See [Timetable](../Timetable/README.md) for deadline information.
 
 * **Project Response** – This is the output of the project itself, whether a prototype, a product, experimental data, a research study, etc. There is no need to submit this item through a deliverable, but there will be the opportunity for you to show it and, if applicable, demonstrate its functionalities during the DEMO Day and/or oral examination.
-* **Project Report** – A written report to be submitted via Blackboard.
+* **Project Report** – A written report to be submitted via Canvas.
 Examples of reports from past projects can be found [here](../Allocation/README.md).
   * The main body text of the report must be in 12pt font size.
   * Your report's main body should be **no more than 15 pages**.
@@ -199,10 +199,10 @@ Examples of reports from past projects can be found [here](../Allocation/README.
   * Include figures and tables within the main body of the report if they are essential to the narrative. They should be referenced to in the text.
   * Your submission **must be in .pdf** format.
 * **Oral Examination** – 15-minute presentation plus 30-minute Q&A, with the 1st and 2nd independent assessors.
-  * Any presentation slides must be submitted via Blackboard before the start of the oral examinations; see the [timetable](../Timetable/README.md) for the deadline.
+  * Any presentation slides must be submitted via Canvas before the start of the oral examinations; see the [timetable](../Timetable/README.md) for the deadline.
 
 **All results to be assessed must be included in your written report.**
-This it to include evidence of you meeting all learning outcomes.
+This is to include all evidence of you meeting each learning outcome.
 
 The assessment is independent of your supervisor, though they will write a [contextualising statement](Supervisor_Report.md), and is conducted by your two independent assessors. See [details of how these are selected](../Allocation/README.md).
 

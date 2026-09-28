@@ -17,10 +17,11 @@ We look forward to seeing your Master’s Projects come to life!
 ## Change log ##
 ```json
 {
-    "Version": "3.0.0",
+    "Version": "3.0.1",
     "Updated": "2026-09-28"
 }
 ```
+* 3.0.1: References to Blackboard replaced for Canvas.
 * 3.0.0: Initial Release for 2026/27.
 
 ## Acknowledgements

@@ -5,12 +5,12 @@
 Within the first weeks of the Autumn Term, you will be able to choose between an academic-generated project proposed by the one of the project tutors, or a student-generated project defined by yourself. In both cases, you will need to contact the potential Supervisor (either the one proposing a project you are interested in, or the one you believe is most suitable for supervising your student-generated project) as soon as possible.
 
 ### The allocation portal and academic-generated projects
-Once published, you can find the academic proposed projects on Blackboard.
+Once published, you can find the academic proposed projects on Canvas.
 You can also propose your own project after agreeing with a supervisor.
 When you are ready, use the link below to submit your ranking.
 This can be edited and returned to.
 
-<!-- * [Blackboard link to Tutor Briefs (Make sure you're logged on)](https://bb.imperial.ac.uk/ultra/courses/_41353_1/cl/outline)
+<!-- * [Canvas link to Tutor Briefs (Make sure you're logged on)](https://bb.imperial.ac.uk/ultra/courses/_41353_1/cl/outline)
 * [Submit Project Ranking](https://forms.office.com/e/YtkXB7Lht6) -->
 * Project List and Ranking form will be released at the start of the module.
 

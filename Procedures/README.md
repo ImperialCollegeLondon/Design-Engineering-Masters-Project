@@ -11,8 +11,7 @@ We recommend you agree on the terms of engagement (i.e. meeting frequency and du
 You can expect 30m per week or 1h per fortnight individual supervision with your supervisor for this module, but it is up to you to drive this meeting schedule.
 
 ## Ethics
-(From the School's [Student Project Ethics Procedure](https://bb.imperial.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_904568_1&course_id=_7973_1&mode=reset))
-
+<!-- (From the School's [Student Project Ethics Procedure](https://bb.imperial.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_904568_1&course_id=_7973_1&mode=reset)) -->
 All studies involving human (or other animal) subjects should have an ethics application.
 Note that there is a difference between ethical behaviour and an ethical approval.
 Approval typically deals with reputational risk and legal requirements,
@@ -20,9 +19,9 @@ but the ethics of your own project is your responsibility.
 You should apply for a study when you are seeking to learn something specific.
 You do not need a study if you are simply exploring a topic broadly, e.g., observing someone work.
 
-See the
+<!-- See the
 [Blackboard Link](https://bb.imperial.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_904568_1&course_id=_7973_1&mode=reset)
-for the full procedure and further resources.
+for the full procedure and further resources. -->
 
 When you're ready to apply for ethics approval, use the
 [Student Research Ethics Approval From](https://imperiallondon.sharepoint.com/sites/foe/designeng/EthicsApproval/SitePages/Home.aspx).
